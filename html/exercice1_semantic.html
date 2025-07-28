@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Exercise 1 – Semantic HTML</title>
+  <link rel="stylesheet" href="/css/style_ex1.css" />
+</head>
+<body>
+
+    <header class="top-bar">
+    <img src="/images/mh-logo.png" alt="Logo" class="logo" />
+    <h1>HTML Semantic Structure – Ex. 1</h1>
+    </header>
+
+                <!-- Section ABC Exercive
+    <div class="container"> 
+    <nav class="main-menu">
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Exercise 1</a></li>
+        <li><a href="/html/indexv2.html">Back to MH Table</a></li>
+    </ul>
+    </nav>
+    </div>
+    <br>
+                -->
+
+		<nav class="main-menu">
+			<div class="menu-item"><a href="/html/indexv2.html">Home</a></div>
+			<div class="menu-item">Exercise 1</div>
+			<div class="menu-item"><a href="/html/indexv2.html">Back to MH Table</a></div>
+
+		</nav>
+
+  <main>
+    
+      <section> <!-- Section ABC Exercive -->
+    <h2>Gestion de box dans container</h2>
+    <div class="flex-test">
+    <div class="box">A</div>
+    <div class="box">B</div>
+    <div class="box">C</div>
+      </div>
+      </section>
+
+    <section>
+      <h2>Flex Wrap Test</h2>
+      <div class="card-row">
+        <div class="card">Card 1</div>
+        <div class="card">Card 2</div>
+        <div class="card">Card 3</div>
+        <div class="card">Card 4</div>
+        <div class="card">Card 5</div>
+      </div>
+    </section>
+
+
+    <section>
+  <h2>🧠 Why is the Nav Bar Vertical?</h2>
+  <p>The navigation bar is a <strong>Flexbox container</strong> with this rule:</p>
+
+  <pre><code>.main-menu ul {
+  display: flex;
+  flex-direction: column;
+}</code></pre>
+
+  <p>This tells the browser to stack each <code>&lt;li&gt;</code> vertically inside the <code>&lt;ul&gt;</code>.</p>
+
+  <p>Try changing <code>flex-direction</code> to <strong>row</strong> in the CSS to switch it back to a horizontal layout.</p>
+</section>
+
+
+    <section>
+      <h2>Project Purpose</h2>
+      <p><strong>This exercise helps understand semantic HTML tags.</strong></p>
+      <p><em>HTML should not just look good — it should be structured properly.</em></p>
+    </section>
+
+    <section>
+      <h2>Example: Feature Highlights</h2>
+
+      <article>
+        <h3>Lightweight</h3>
+        <p>No frameworks or libraries needed.</p>
+      </article>
+
+      <article>
+        <h3>Accessible</h3>
+        <p>Screen readers and browsers understand the meaning of each section.</p>
+      </article>
+
+      <article>
+        <h3>Scalable</h3>
+        <p>Adding more content or styling is easier when the structure is clear.</p>
+      </article>
+    </section>
+
+    <section>
+      <h2>Contact Form Example</h2>
+      <form>
+        <label for="name">Name:</label><br />
+        <input type="text" id="name" name="name" /><br />
+
+        <label for="email">Email:</label><br />
+        <input type="email" id="email" name="email" /><br />
+
+        <label for="message">Message:</label><br />
+        <textarea id="message" name="message"></textarea><br />
+
+        <button type="submit">Send</button>
+      </form>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2025 – Exercise 1 Page</p>
+  </footer>
+
+</body>
+</html>

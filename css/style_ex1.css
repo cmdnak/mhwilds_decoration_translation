@@ -1,0 +1,260 @@
+/* === GLOBAL STYLES === */
+html, body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  background: #e8e5e5; /* same light gray background */
+  font-family: Arial, sans-serif;
+  color: #333;         /* dark gray for text */
+  box-sizing: border-box;
+}
+
+/* === HEADER === */
+header.top-bar {
+  display: flex;                      /* Flexbox layout: row (default) */
+  justify-content: space-between;    /* Title on left, nav/logo on right */
+  align-items: center;               /* Vertically center elements */
+  max-width: 900px;
+  margin: 24px auto;                 /* Centered, spacing above */
+  padding: 24px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+/* Logo inside header (optional) */
+.logo {
+  height: 80px;
+  width: auto;
+}
+
+/* Page Title */
+header h1 {
+  margin: 0;
+  font-size: 2.4em;
+  color: rgb(159, 24, 24); /* brand red color */
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+/* === NAVIGATION === */
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Main menu bar: use flexbox to arrange items in a row */
+.main-menu {
+  display: flex;              /* ACTIVATES FLEXBOX LAYOUT */
+  justify-content: space-between; /* SPACE ITEMS EVENLY ACROSS THE ROW */
+  align-items: stretch;       /* ENSURES ALL BOXES HAVE SAME HEIGHT */
+  width: 100%;                /* FULL WIDTH OF PARENT */
+  background: #404040;        /* DARK BACKGROUND FOR MENU BAR */
+  margin: 0;                  /* NO EXTRA MARGIN */
+  padding: 0;                 /* NO EXTRA PADDING */
+}
+
+/* Main menu bar: harmonized with table design */
+.main-menu {
+  display: flex;                            /* FLEX LAYOUT: Items in a row */
+  justify-content: space-between;           /* SPACES ITEMS EVENLY */
+  align-items: stretch;                     /* ALL BOXES SAME HEIGHT */
+  width: 100%;                              /* FULL WIDTH */
+  max-width: 900px;                         /* MATCHES TABLE'S MAX-WIDTH */
+  margin: 32px auto 24px auto;              /* SPACE ABOVE, CENTERED LIKE TABLE */
+  background: #fff;                         /* WHITE BACKGROUND, SAME AS TABLE */
+  border-radius: 10px;                      /* ROUNDED CORNERS, LIKE TABLE */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);   /* SUBTLE SHADOW, LIKE TABLE */
+  overflow: hidden;                         /* ENFORCE RADIUS ON CHILDREN */
+  font-family: Arial, sans-serif;           /* CONSISTENT FONT */
+}
+
+
+/* Individual menu items (boxes) */
+.menu-item {
+  flex: 1;                                  /* EACH BOX TAKES EQUAL WIDTH */
+  color: #333;                              /* DARK TEXT, LIKE TABLE CELLS */
+  background: #faf7f7;                      /* VERY LIGHT GRAY, LIKE ZEBRA ROW */
+  text-align: center;                       /* CENTERED TEXT */
+  padding: 20px 0;                          /* VERTICAL PADDING FOR SIZE */
+  font-size: 1.1em;                         /* SIMILAR TO TABLE HEADER SIZE */
+  font-weight: bold;                        /* MATCH TABLE HEADER */
+  border-right: 1px solid #eee;             /* LIGHT DIVIDER BETWEEN ITEMS */
+  letter-spacing: 0.5px;                    /* SLIGHT SPACING FOR STYLE */
+  cursor: pointer;                          /* POINTER ON HOVER */
+  box-sizing: border-box;                   /* BORDERS INCLUDED IN WIDTH */
+  transition: background 0.2s, color 0.2s;  /* SMOOTH HOVER ANIMATION */
+}
+
+/* Remove right border from last box for clean edge */
+.menu-item:last-child {
+  border-right: none;                       /* NO DIVIDER ON LAST ITEM */
+}
+
+/* Hover effect for menu items */
+.menu-item:hover {
+  background: #f6ecec;                      /* TABLE HEADER RED ON HOVER */
+  color: #fff;                              /* WHITE TEXT ON HOVER */
+}
+
+/* === MAIN CONTAINER === */
+main {
+  max-width: 900px;
+  margin: auto;
+  padding: 24px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  box-sizing: border-box;
+}
+
+/* === SECTION HEADINGS === */
+section {
+  margin-bottom: 32px;
+}
+
+section h2 {
+  font-size: 1.8em;
+  color: #2d2d2d;
+  margin-bottom: 10px;
+}
+
+section p {
+  font-size: 1em;
+  line-height: 1.6em;
+  color: #555;
+}
+
+/* === ARTICLE BOXES (Feature Cards) === */
+article {
+  background: #faf7f7;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+  margin-bottom: 16px;
+}
+
+article h3 {
+  margin-top: 0;
+  color: rgb(159, 24, 24);
+}
+
+article p {
+  margin: 8px 0 0 0;
+}
+
+/* === CONTACT FORM === */
+form {
+  display: flex;
+  flex-direction: column; /* Vertical layout */
+  gap: 12px;               /* Space between inputs */
+}
+
+label {
+  font-weight: bold;
+  color: #2d2d2d;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-family: Arial, sans-serif;
+  font-size: 1em;
+  resize: vertical;
+}
+
+button[type="submit"] {
+  background: rgb(159, 24, 24);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 12px 16px;
+  font-size: 1em;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button[type="submit"]:hover {
+  background: #911c1c;
+}
+
+/* === FOOTER === */
+.site-footer {
+  width: 100%;
+  max-width: 900px;
+  margin: 48px auto 24px auto;
+  background: #fff;
+  text-align: center;
+  padding: 18px;
+  border-radius: 10px;
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: #333;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+
+/* GESTION DE BOX DANS CONTAINER */
+.flex-test {
+  display: flex;
+  height: 200px;
+  background: #ddd;
+  justify-content: space-between;   /* play with: flex-start, space-between, space-around */
+  align-items: center;       /* play with: stretch, flex-start, flex-end */
+  gap: 20px;
+  border-radius: 8px;
+  
+}
+
+.box {
+  width: 60px;
+  height: 60px;
+  background: #b84242;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  border-radius: 8px;
+}
+
+/* GESTION DE CARDS FLEXWRAP DANS CONTAINER */
+.card-row {
+  display: flex;
+  flex-wrap: wrap;           /* Try removing this to see overflow */
+  gap: 16px;                 /* Adds spacing between flex items */
+  justify-content: space-evenly;
+  background: #ddd;
+  border-radius: 8px;
+  
+  
+}
+
+.card {
+  flex: 0 0 140px;          /* Don't grow/shrink, fixed width */
+  /*flex-grow: 1; /* A Utiliser pour étendre les boites pour prendre toute la place*/
+  background: #faf7f7;
+  padding: 16px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  text-align: end;
+}
+
+pre, code {
+  
+  background: #f4f4f4;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 0.95em;
+  display: block;
+  white-space: pre-wrap;
+  margin: 12px 0;
+  flex-direction: row;
+}
+
+

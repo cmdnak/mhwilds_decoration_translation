@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+	
+<head>
+<meta charset='UTF-8'>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Decoration Translation Tool</title>
+<link rel="stylesheet" href="/css/style_pj.css">
+</head>
+
+<body>
+  <div class="top-bar">
+    <h1 id="titreh1">Decoration Translation Tool</h1>
+    <img src="/images/bannerarkveld.jpg" alt="Decoration" class="top-bar-img" />
+  </div>
+		<nav class="main-menu">
+			<div class="menu-item">Home</div>
+			<div class="menu-item">Monsters</div>
+			<div class="menu-item"><a href="/html/exercice1_semantic.html">Items (exo)</a></div>
+
+		</nav>
+		<br>
+
+	<div class="container">
+  		<strong>Voici la liste des joyaux de Monster Hunter Wilds traduit de Fr-En</strong>
+  	
+	<section>
+      <i>Salut je me suis amusé à faire un site qui sert à faire le traductions des joyaux de MH car ça m'a soulé de toujours rechercher les noms...</i>
+  	</section>
+    </div>
+   
+<!-- 🧱 TABLE BLOCK: All table elements grouped inside .table-container -->
+<div class="table-container">
+
+<!-- 🔁 Image Banner Carousel -->
+<div class="banner-carousel">
+  <div class="banner-track">
+    <img src="/images/decoblanche.png" alt="Banner 1">
+    <img src="/images/decorougepale.png" alt="Banner 2">
+    <img src="/images/decojaune.png" alt="Banner 3">
+    <img src="/images/decobleue.png" alt="Banner 4">
+    <img src="/images/decopourpre.png" alt="Banner 5">
+    <img src="/images/decoviolette.png" alt="Banner 6">
+    <img src="/images/decorouge.png" alt="Banner 7">
+    <img src="/images/decoblanche.png" alt="Banner 8">
+    <img src="/images/decorougepale.png" alt="Banner 9">
+    <img src="/images/decojaune.png" alt="Banner 10">
+    <img src="/images/decobleue.png" alt="Banner 11">
+    <img src="/images/decopourpre.png" alt="Banner 12">
+    <img src="/images/decoviolette.png" alt="Banner 13">
+    <img src="/images/decorouge.png" alt="Banner 14">
+    <img src="/images/decoblanche.png" alt="Banner 15">
+    <img src="/images/decorougepale.png" alt="Banner 16">
+    <img src="/images/decojaune.png" alt="Banner 17">
+    <img src="/images/decobleue.png" alt="Banner 18">
+    <img src="/images/decopourpre.png" alt="Banner 19">
+    <img src="/images/decoviolette.png" alt="Banner 20">
+  </div>
+</div>
+
+
+  <!-- 🔍 Search bar -->
+  <div class="search-bar">
+    <label for="searchInput">Search Jewel by name: </label>
+    <input type="text" id="searchInput" placeholder="Joyaux attaque / affinité / faiblesse" />
+    <button id="resetBtn">Reset</button>
+  </div>
+
+  <!-- 👁️ Toggle Table button -->
+  <div class="table-controls">
+    <button id="toggleTableBtn" class="table-controls__button">Hide Table</button>
+  </div>
+
+  <!-- 📊 Jewel Table -->
+   <!-- TO DO AUJ RESCRAP CAR DONNEE INCOMPLETE SUR DOUBLE JOYAUX + FIXER TAILLE Pour scroll a l'interieur -->
+<div class="table-container">
+  <div class="table-wrapper">
+    <table>
+      <thead>
+        <tr>
+          <th>Jewel Name</th>
+          <th>Slots</th>
+          <th>Skill</th>
+          <th>Description talent</th>
+        </tr>
+      </thead>
+      <tbody id="jewel-table-body">
+      </tbody>
+    </table>
+    </div>
+  </div>
+
+</div> <!-- ✅ End of table-container -->
+
+				<footer class="site-footer">
+					<!-- Content of your footer -->
+					<p>&copy; 2024 First Scraping Project EtE. All rights reserved for struggling hunter.</p>
+				</footer>
+
+    </div>
+
+
+</div>
+<!-- Load jewel data from JSON using external script -->
+<script src="/js/load_jewels.js"></script>
+<script src="/js/search.js"></script>
+</body>
+</html>

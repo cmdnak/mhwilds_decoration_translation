@@ -1,0 +1,371 @@
+html, body {
+  width: 100vw;     /* 100% of the viewport width */
+  height: 100vh;    /* 100% of the viewport height */
+}
+
+body, table, th, td, strong, section, h1 {
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin: 0;
+  /* padding: 14px 8px;  REMOVED: was breaking layout */
+}
+
+body {
+  background: #e8e5e5;
+  margin: 0;
+}
+
+
+.top-bar {
+  position: relative; /* ✅ this is the image's positioning context */  display: flex;                      /* FLEXBOX: arrange children in a row */
+  justify-content: center;     /* TITLE LEFT, LOGO RIGHT */
+  align-items: flex-start;            /* ALIGN TOP EDGES OF BOTH ELEMENTS */
+  width: 100%;
+  height: 200px;
+  max-width: 900px;                   /* ALIGN WITH MENU AND TABLE */
+  margin: 0 auto 0px auto;           /* CENTER BAR, ADD BOTTOM SPACE */
+  padding: 24px 24px 0 24px;          /* SPACE ON LEFT/RIGHT, NO BOTTOM PAD */
+  background: #fff;                   /* WHITE BACKGROUND LIKE TABLE/MENU */
+  border-radius: 10px;                /* ROUNDED CORNERS */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08); /* SOFT SHADOW */
+  box-sizing: border-box;             /* ENSURE PADDING INCLUDED IN WIDTH */
+  overflow: hidden;
+  
+}
+
+.top-bar-img {
+  position: absolute;     /* ✅ float inside top-bar */
+  bottom: 0;
+  left: 0;
+  width: 100%;            /* ✅ match top-bar's full width */
+  height: 100%;           /* ✅ match top-bar's full height */
+  object-fit: cover;      /* ✅ keep proportions without stretch */
+  clip-path: inset(100% 0 0 0); /* ⛔ hidden by default */
+  transition: clip-path 0.1s ease-out;
+  pointer-events: none;   /* ✅ let mouse go through */
+  z-index: 1;             /* ✅ under the title text */
+}
+
+/* Title: left-aligned, no need for position absolute with Flexbox */
+#titreh1 {
+  display: flex;
+  margin: 0;                          /* REMOVE DEFAULT MARGIN */
+  font-size: 2.4em;                   /* LARGE TITLE */
+  color: rgb(159, 24, 24);            /* BRAND COLOR */
+  font-family: Arial, sans-serif;     /* CONSISTENT FONT */
+  letter-spacing: 1px;                /* SLIGHT SPACING */
+  font-weight: bold;
+  align-self: center;             /* ENSURE TITLE IS AT TOP */
+}
+
+/* Logo: right-aligned, size controlled, no position absolute needed */
+.logo {
+  height: 100px;                      /* SET LOGO HEIGHT (ADJUST AS NEEDED) */
+  width: auto;                        /* MAINTAIN LOGO ASPECT RATIO */
+  display: block;
+  align-self: flex-start;             /* ENSURE LOGO IS AT TOP */
+  margin-left: 24px;                  /* SPACE BETWEEN TITLE AND LOGO */
+}
+
+
+/* Main menu bar: use flexbox to arrange items in a row */
+.main-menu {
+  display: flex;              /* ACTIVATES FLEXBOX LAYOUT */
+  justify-content: space-between; /* SPACE ITEMS EVENLY ACROSS THE ROW */
+  align-items: stretch;       /* ENSURES ALL BOXES HAVE SAME HEIGHT */
+  width: 100%;                /* FULL WIDTH OF PARENT */
+  background: #404040;        /* DARK BACKGROUND FOR MENU BAR */
+  margin: 0;                  /* NO EXTRA MARGIN */
+  padding: 0;                 /* NO EXTRA PADDING */
+}
+
+/* Main menu bar: harmonized with table design */
+.main-menu {
+  display: flex;                            /* FLEX LAYOUT: Items in a row */
+  justify-content: space-between;           /* SPACES ITEMS EVENLY */
+  align-items: stretch;                     /* ALL BOXES SAME HEIGHT */
+  width: 100%;                              /* FULL WIDTH */
+  max-width: 900px;                         /* MATCHES TABLE'S MAX-WIDTH */
+  margin: 32px auto 24px auto;              /* SPACE ABOVE, CENTERED LIKE TABLE */
+  background: #fff;                         /* WHITE BACKGROUND, SAME AS TABLE */
+  border-radius: 10px;                      /* ROUNDED CORNERS, LIKE TABLE */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);   /* SUBTLE SHADOW, LIKE TABLE */
+  overflow: hidden;                         /* ENFORCE RADIUS ON CHILDREN */
+  font-family: Arial, sans-serif;           /* CONSISTENT FONT */
+}
+
+/* Individual menu items (boxes) */
+.menu-item {
+  flex: 1;                                  /* EACH BOX TAKES EQUAL WIDTH */
+  color: #333;                              /* DARK TEXT, LIKE TABLE CELLS */
+  background: #faf7f7;                      /* VERY LIGHT GRAY, LIKE ZEBRA ROW */
+  text-align: center;                       /* CENTERED TEXT */
+  padding: 20px 0;                          /* VERTICAL PADDING FOR SIZE */
+  font-size: 1.1em;                         /* SIMILAR TO TABLE HEADER SIZE */
+  font-weight: bold;                        /* MATCH TABLE HEADER */
+  border-right: 1px solid #eee;             /* LIGHT DIVIDER BETWEEN ITEMS */
+  letter-spacing: 0.5px;                    /* SLIGHT SPACING FOR STYLE */
+  cursor: pointer;                          /* POINTER ON HOVER */
+  box-sizing: border-box;                   /* BORDERS INCLUDED IN WIDTH */
+  transition: background 0.2s, color 0.2s;  /* SMOOTH HOVER ANIMATION */
+}
+
+/* Remove right border from last box for clean edge */
+.menu-item:last-child {
+  border-right: none;                       /* NO DIVIDER ON LAST ITEM */
+}
+
+/* Hover effect for menu items */
+.menu-item:hover {
+  background: #f6ecec;                      /* TABLE HEADER RED ON HOVER */
+  color: #fff;                              /* WHITE TEXT ON HOVER */
+}
+
+.container {
+  width: 100%;
+  max-width: 900px;    /* MATCHES YOUR TABLE, MENU, FOOTER */
+  margin: 0 auto;      /* CENTERS THE CONTENT */
+  box-sizing: border-box;
+}
+
+/* Subheading/Strong */
+strong {
+  font-size: 1.25em;         /* Second largest: subtitle */
+  color: #2d2d2d;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 12px;
+}
+
+/* Info/Section (italic) */
+section, i {
+  font-size: 1em;
+  color: #555;
+  font-style: italic;
+  margin-bottom: 14px;
+}
+
+/* === Table Container === */
+.table-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding-bottom: 60px;    /* Optional: spacing below the table */
+}
+
+/* === Wrapper for animation + rounded border control === */
+.table-wrapper {
+  max-height: none;                  /* Let it grow fully */
+  margin-top: 14px;
+  padding: 0;
+  border-radius: 10px;              /* Rounded corners holder */
+  overflow: hidden;                 /* ✅ Clip table content to corners */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08); /* Unified shadow style */
+  background: #fff;                 /* Match table BG */
+  transition: none;                 /* Optional: remove animation */
+}
+
+.table-wrapper.table--collapsed {
+  max-height: 0;
+  padding: 0;
+  margin: 0;
+  pointer-events: none;
+}
+
+/* === Actual Table === */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0;
+  background: transparent;   /* Let wrapper handle background */
+  font-size: 1em;
+  border-radius: 0;          /* Radius is handled by wrapper */
+}
+
+/* === Table Header === */
+thead th {
+  background-color: #686666;
+  color: #fff;
+  font-size: 1.1em;
+  padding: 14px 8px;
+  border: 1px solid #827f7f;
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+/* === Table Body === */
+tbody td {
+  border: 1px solid #eee;
+  padding: 10px 8px;
+  background: #fff;
+  font-weight: normal;
+  text-align: center;
+  font-size: 1em;
+}
+
+/* Zebra striping */
+tbody tr:nth-child(even) td {
+  background-color: #faf7f7;
+}
+
+/* Hover effect */
+tbody tr:hover td {
+  background-color: #f6ecec;
+}
+
+/* Responsive container for the table */
+div {
+  width: 100%;
+  max-width: 900px;
+  margin: auto;
+}
+
+.site-footer {
+  width: 100%;                                 /* FULL WIDTH */
+  max-width: 900px;                            /* SAME AS TABLE AND MENU */
+  margin: 60px auto 24px auto;                 /* SPACE ABOVE, CENTERED LIKE OTHERS */
+  background: #fff;                            /* WHITE BACKGROUND LIKE TABLE/MENU */
+  color: #333;                                 /* DARK TEXT FOR CONSISTENCY */
+  text-align: center;                          /* CENTERED TEXT */
+  padding: 24px 0 18px 0;                      /* SPACE ABOVE/BENEATH TEXT */
+  border-radius: 10px;                         /* ROUNDED CORNERS MATCHING TABLE/MENU */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);      /* SOFT SHADOW, SAME AS OTHERS */
+  font-size: 1em;                              /* READABLE SIZE, MATCHING BODY */
+  letter-spacing: 1px;                         /* SLIGHT LETTER SPACING FOR STYLE */
+  font-family: Arial, sans-serif;              /* ENSURE FONT IS CONSISTENT */
+  /* Remove position, bottom, left as we want a standard footer */
+}
+
+/* Harmonized search bar styling */
+.search-bar {
+  display: flex;                         /* Use flex layout */
+  justify-content: space-between;       /* Space label and input evenly */
+  align-items: center;                  /* Vertically center both */
+  width: 100%;
+  max-width: 900px;                     /* Match table and menu width */
+  background: #fff;                     /* Same white card background */
+  padding: 16px 24px;                   /* Comfortable spacing */
+  margin: 24px auto;                    /* Center and add vertical space */
+  border-radius: 10px;                  /* Rounded corners like others */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);/* Soft card-style shadow */
+  box-sizing: border-box;               /* Include padding in width */
+  font-family: Arial, sans-serif;       /* Match global font */
+  gap: 16px;                            /* Space between label and input */
+}
+
+/* Input field styling */
+#searchInput {
+  flex: 1;                               /* Take remaining space */
+  padding: 10px 12px;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #faf7f7;
+  transition: border-color 0.2s;
+}
+
+/* Focus effect for input */
+#searchInput:focus {
+  outline: none;
+  border-color: #9f1818;                /* Brand red highlight */
+}
+
+#resetBtn {
+  padding: 10px 16px;
+  font-size: 1em;
+  background-color: #9f1818;   /* Match brand red */
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+#resetBtn:hover {
+  background-color: #7c1313;   /* Slightly darker on hover */
+}
+
+/* === Table Controls (Hide/Show Table) === */
+.table-controls {
+  display: flex;
+  justify-content: flex-start;           /* Align button to the right */
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto 0px auto;            /* Align + space like search bar */
+  padding: 10px 24px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  box-sizing: border-box;
+}
+
+.table-controls__button {
+  padding: 10px 16px;
+  font-size: 1em;
+  background-color: #404040;         /* Dark like menu bar */
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.table-controls__button:hover {
+  background-color: #2a2a2a;
+}
+
+/* === BANNER PARAMETERS === */
+/* === Static Banner Layout Fix === */
+.banner-carousel {
+  width: 100%;
+  max-width: 900px;
+  overflow: hidden;                   /* Hide any overflow */
+  margin: 40px auto;                  /* Center the banner */
+  border-radius: 10px;
+  /* box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); */
+  /* background: #fff; */
+  height: 60px;                      /* 🔁 Fixed: limit banner height */
+  position: relative;
+}
+
+.banner-track {
+  display: flex;                      /* Put images in a row */
+  gap: 0;
+  height: 100%;                       /* Match parent height */
+  /* 🔁 Add animation to move track  or ⛔️ Do NOT animate by default */
+  animation: scroll-pendulum 10s ease-in-out infinite; /* 👈 10s left + 10s right */
+  animation-play-state: running; /* default */
+}
+
+/*✅ Start animation only when hovering the outer banner*/
+.banner-carousel:hover .banner-track {
+  animation-play-state: paused;
+}
+
+/* === Individual Image Rules === */
+.banner-track img {
+  height: 100%;                      /* Fit to banner height */
+  width: auto;                       /* Preserve aspect ratio */
+  object-fit: contain;              /* Prevent stretching */
+  flex-shrink: 0;                   /* Prevent shrinking */
+}
+
+/* 🔁 Keyframes for horizontal scroll */
+@keyframes scroll-pendulum {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(-12%); /* scroll halfway to left */
+  }
+  100% {
+    transform: translateX(0); /* come back to start */
+  }
+}
+
+
+
+
+

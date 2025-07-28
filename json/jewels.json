@@ -1,0 +1,1807 @@
+[
+  {
+    "name": "Adapt Jewel [1]",
+    "slot": "1",
+    "skill": "Adaptability Lv. 1"
+  },
+  {
+    "name": "Antiblast Jewel [1]",
+    "slot": "1",
+    "skill": "Blast Resistance Lv. 1"
+  },
+  {
+    "name": "Antidote Jewel [1]",
+    "slot": "1",
+    "skill": "Poison Resistance Lv. 1"
+  },
+  {
+    "name": "Antipara Jewel [1]",
+    "slot": "1",
+    "skill": "Paralysis Resistance Lv. 1"
+  },
+  {
+    "name": "Artillery Jewel [1]",
+    "slot": "1",
+    "skill": "Artillery Lv. 1"
+  },
+  {
+    "name": "Attack Jewel [1]",
+    "slot": "1",
+    "skill": "Attack Boost Lv. 1"
+  },
+  {
+    "name": "Bandolier Jewel [1]",
+    "slot": "1",
+    "skill": "Tetrad Shot Lv. 1"
+  },
+  {
+    "name": "Blast Jewel [1]",
+    "slot": "1",
+    "skill": "Blast Attack Lv. 1"
+  },
+  {
+    "name": "Blaze Jewel [1]",
+    "slot": "1",
+    "skill": "Fire Attack Lv. 1"
+  },
+  {
+    "name": "Blunt Jewel [1]",
+    "slot": "1",
+    "skill": "Bludgeoner Lv. 1"
+  },
+  {
+    "name": "Bolt Jewel [1]",
+    "slot": "1",
+    "skill": "Thunder Attack Lv. 1"
+  },
+  {
+    "name": "Bomber Jewel [1]",
+    "slot": "1",
+    "skill": "Bombardier Lv. 1"
+  },
+  {
+    "name": "Botany Jewel [1]",
+    "slot": "1",
+    "skill": "Botanist Lv. 1"
+  },
+  {
+    "name": "Brace Jewel [1]",
+    "slot": "1",
+    "skill": "Flinch Free Lv. 1"
+  },
+  {
+    "name": "Charge Jewel [1]",
+    "slot": "1",
+    "skill": "Charge Master Lv. 1"
+  },
+  {
+    "name": "Climber Jewel [1]",
+    "slot": "1",
+    "skill": "Cliffhanger Lv. 1"
+  },
+  {
+    "name": "Crit Element Jewel [1]",
+    "slot": "1",
+    "skill": "Critical Element Lv. 1"
+  },
+  {
+    "name": "Crit Status Jewel [1]",
+    "slot": "1",
+    "skill": "Critical Status Lv. 1"
+  },
+  {
+    "name": "Critical Jewel [1]",
+    "slot": "1",
+    "skill": "Critical Boost Lv. 1"
+  },
+  {
+    "name": "Def Lock Jewel [1]",
+    "slot": "1",
+    "skill": "Iron Skin Lv. 1"
+  },
+  {
+    "name": "Defense Jewel [1]",
+    "slot": "1",
+    "skill": "Defense Boost Lv. 1"
+  },
+  {
+    "name": "Dive Jewel [1]",
+    "slot": "1",
+    "skill": "Leap of Faith Lv. 1"
+  },
+  {
+    "name": "Dragon Jewel [1]",
+    "slot": "1",
+    "skill": "Dragon Attack Lv. 1"
+  },
+  {
+    "name": "Dragon Res Jewel [1]",
+    "slot": "1",
+    "skill": "Dragon Resistance Lv. 1"
+  },
+  {
+    "name": "Drain Jewel [1]",
+    "slot": "1",
+    "skill": "Stamina Thief Lv. 1"
+  },
+  {
+    "name": "Draw Jewel [1]",
+    "slot": "1",
+    "skill": "Critical Draw Lv. 1"
+  },
+  {
+    "name": "Enduring Jewel [1]",
+    "slot": "1",
+    "skill": "Item Prolonger Lv. 1"
+  },
+  {
+    "name": "Enhancer Jewel [1]",
+    "slot": "1",
+    "skill": "Power Prolonger Lv. 1"
+  },
+  {
+    "name": "Escape Jewel [1]",
+    "slot": "1",
+    "skill": "Bind Resistance Lv. 1"
+  },
+  {
+    "name": "Expert Jewel [1]",
+    "slot": "1",
+    "skill": "Critical Eye Lv. 1"
+  },
+  {
+    "name": "Fire Res Jewel [1]",
+    "slot": "1",
+    "skill": "Fire Resistance Lv. 1"
+  },
+  {
+    "name": "Flash Jewel [1]",
+    "slot": "1",
+    "skill": "Blindsider Lv. 1"
+  },
+  {
+    "name": "Focus Jewel [1]",
+    "slot": "1",
+    "skill": "Focus Lv. 1"
+  },
+  {
+    "name": "Footing Jewel [1]",
+    "slot": "1",
+    "skill": "Tremor Resistance Lv. 1"
+  },
+  {
+    "name": "Friendship Jewel [1]",
+    "slot": "1",
+    "skill": "Wide-Range Lv. 1"
+  },
+  {
+    "name": "Frost Jewel [1]",
+    "slot": "1",
+    "skill": "Ice Attack Lv. 1"
+  },
+  {
+    "name": "Gambit Jewel [1]",
+    "slot": "1",
+    "skill": "Punishing Draw Lv. 1"
+  },
+  {
+    "name": "Geology Jewel [1]",
+    "slot": "1",
+    "skill": "Geologist Lv. 1"
+  },
+  {
+    "name": "Gobbler Jewel [1]",
+    "slot": "1",
+    "skill": "Speed Eating Lv. 1"
+  },
+  {
+    "name": "Grinder Jewel [1]",
+    "slot": "1",
+    "skill": "Speed Sharpening Lv. 1"
+  },
+  {
+    "name": "Growth Jewel [1]",
+    "slot": "1",
+    "skill": "Self-Improvement Lv. 1"
+  },
+  {
+    "name": "Guardian Jewel [1]",
+    "slot": "1",
+    "skill": "Offensive Guard Lv. 1"
+  },
+  {
+    "name": "Handicraft Jewel [1]",
+    "slot": "1",
+    "skill": "Handicraft Lv. 1"
+  },
+  {
+    "name": "Hungerless Jewel [1]",
+    "slot": "1",
+    "skill": "Hunger Resistance Lv. 1"
+  },
+  {
+    "name": "Ice Res Jewel [1]",
+    "slot": "1",
+    "skill": "Ice Resistance Lv. 1"
+  },
+  {
+    "name": "Intimidator Jewel [1]",
+    "slot": "1",
+    "skill": "Intimidator Lv. 1"
+  },
+  {
+    "name": "Ironwall Jewel [1]",
+    "slot": "1",
+    "skill": "Guard Lv. 1"
+  },
+  {
+    "name": "KO Jewel [1]",
+    "slot": "1",
+    "skill": "Slugger Lv. 1"
+  },
+  {
+    "name": "Leap Jewel [1]",
+    "slot": "1",
+    "skill": "Jump Master Lv. 1"
+  },
+  {
+    "name": "Magazine Jewel [1]",
+    "slot": "1",
+    "skill": "Load Shells Lv. 1"
+  },
+  {
+    "name": "Medicine Jewel [1]",
+    "slot": "1",
+    "skill": "Recovery Up Lv. 1"
+  },
+  {
+    "name": "Mind's Eye Jewel [1]",
+    "slot": "1",
+    "skill": "Mind's Eye Lv. 1"
+  },
+  {
+    "name": "Mirewalker Jewel [1]",
+    "slot": "1",
+    "skill": "Aquatic/Oilsilt Mobility Lv. 1"
+  },
+  {
+    "name": "Opener Jewel [1]",
+    "slot": "1",
+    "skill": "Opening Shot Lv. 1"
+  },
+  {
+    "name": "Paralyzer Jewel [1]",
+    "slot": "1",
+    "skill": "Paralysis Attack Lv. 1"
+  },
+  {
+    "name": "Pep Jewel [1]",
+    "slot": "1",
+    "skill": "Sleep Resistance Lv. 1"
+  },
+  {
+    "name": "Perfume Jewel [1]",
+    "slot": "1",
+    "skill": "Stench Resistance Lv. 1"
+  },
+  {
+    "name": "Physique Jewel [1]",
+    "slot": "1",
+    "skill": "Constitution Lv. 1"
+  },
+  {
+    "name": "Precise Jewel [1]",
+    "slot": "1",
+    "skill": "Ballistics Lv. 1"
+  },
+  {
+    "name": "Protection Jewel [1]",
+    "slot": "1",
+    "skill": "Divine Blessing Lv. 1"
+  },
+  {
+    "name": "Quickswitch Jewel [1]",
+    "slot": "1",
+    "skill": "Rapid Morph Lv. 1"
+  },
+  {
+    "name": "Ranger Jewel [1]",
+    "slot": "1",
+    "skill": "Outdoorsman Lv. 1"
+  },
+  {
+    "name": "Razor Sharp Jewel [1]",
+    "slot": "1",
+    "skill": "Razor Sharp Lv. 1"
+  },
+  {
+    "name": "Recovery Jewel [1]",
+    "slot": "1",
+    "skill": "Recovery Speed Lv. 1"
+  },
+  {
+    "name": "Sane Jewel [1]",
+    "slot": "1",
+    "skill": "Antivirus Lv. 1"
+  },
+  {
+    "name": "Satiated Jewel [1]",
+    "slot": "1",
+    "skill": "Free Meal Lv. 1"
+  },
+  {
+    "name": "Sharp Jewel [1]",
+    "slot": "1",
+    "skill": "Protective Polish Lv. 1"
+  },
+  {
+    "name": "Sheath Jewel [1]",
+    "slot": "1",
+    "skill": "Quick Sheathe Lv. 1"
+  },
+  {
+    "name": "Shield Jewel [1]",
+    "slot": "1",
+    "skill": "Guard Up Lv. 1"
+  },
+  {
+    "name": "Shockproof Jewel [1]",
+    "slot": "1",
+    "skill": "Shock Absorber Lv. 1"
+  },
+  {
+    "name": "Sleep Jewel [1]",
+    "slot": "1",
+    "skill": "Sleep Attack Lv. 1"
+  },
+  {
+    "name": "Specimen Jewel [1]",
+    "slot": "1",
+    "skill": "Entomologist Lv. 1"
+  },
+  {
+    "name": "Sprinter Jewel [1]",
+    "slot": "1",
+    "skill": "Marathon Runner Lv. 1"
+  },
+  {
+    "name": "Steadfast Jewel [1]",
+    "slot": "1",
+    "skill": "Stun Resistance Lv. 1"
+  },
+  {
+    "name": "Stream Jewel [1]",
+    "slot": "1",
+    "skill": "Water Attack Lv. 1"
+  },
+  {
+    "name": "Survival Jewel [1]",
+    "slot": "1",
+    "skill": "Survival Expert Lv. 1"
+  },
+  {
+    "name": "Suture Jewel [1]",
+    "slot": "1",
+    "skill": "Bleeding Resistance Lv. 1"
+  },
+  {
+    "name": "Thunder Res Jewel [1]",
+    "slot": "1",
+    "skill": "Thunder Resistance Lv. 1"
+  },
+  {
+    "name": "Trueshot Jewel [1]",
+    "slot": "1",
+    "skill": "Special Ammo Boost Lv. 1"
+  },
+  {
+    "name": "Venom Jewel [1]",
+    "slot": "1",
+    "skill": "Poison Attack Lv. 1"
+  },
+  {
+    "name": "Water Res Jewel [1]",
+    "slot": "1",
+    "skill": "Water Resistance Lv. 1"
+  },
+  {
+    "name": "Wind Resist Jewel [1]",
+    "slot": "1",
+    "skill": "Windproof Lv. 1"
+  },
+  {
+    "name": "Ambush Jewel [2]",
+    "slot": "2",
+    "skill": "Ambush Lv. 1"
+  },
+  {
+    "name": "Artillery Jewel II [2]",
+    "slot": "2",
+    "skill": "Artillery Lv. 2"
+  },
+  {
+    "name": "Attack Jewel II [2]",
+    "slot": "2",
+    "skill": "Attack Boost Lv. 2"
+  },
+  {
+    "name": "Bandolier Jewel II [2]",
+    "slot": "2",
+    "skill": "Tetrad Shot Lv. 2"
+  },
+  {
+    "name": "Blast Jewel II [2]",
+    "slot": "2",
+    "skill": "Blast Attack Lv. 2"
+  },
+  {
+    "name": "Blastcoat Jewel [2]",
+    "slot": "2",
+    "skill": "Blast Functionality Lv. 1"
+  },
+  {
+    "name": "Blaze Jewel II [2]",
+    "slot": "2",
+    "skill": "Fire Attack Lv. 2"
+  },
+  {
+    "name": "Blunt Jewel II [2]",
+    "slot": "2",
+    "skill": "Bludgeoner Lv. 2"
+  },
+  {
+    "name": "Bolt Jewel II [2]",
+    "slot": "2",
+    "skill": "Thunder Attack Lv. 2"
+  },
+  {
+    "name": "Charge Jewel II [2]",
+    "slot": "2",
+    "skill": "Charge Master Lv. 2"
+  },
+  {
+    "name": "Charge Up Jewel [2]",
+    "slot": "2",
+    "skill": "Charge Up Lv. 2"
+  },
+  {
+    "name": "Counter Jewel [2]",
+    "slot": "2",
+    "skill": "Counterstrike Lv. 1"
+  },
+  {
+    "name": "Crit Element Jewel II [2]",
+    "slot": "2",
+    "skill": "Critical Element Lv. 2"
+  },
+  {
+    "name": "Crit Status Jewel II [2]",
+    "slot": "2",
+    "skill": "Critical Status Lv. 2"
+  },
+  {
+    "name": "Critical Jewel II [2]",
+    "slot": "2",
+    "skill": "Critical Boost Lv. 2"
+  },
+  {
+    "name": "Destroyer Jewel [2]",
+    "slot": "2",
+    "skill": "Partbreaker Lv. 1"
+  },
+  {
+    "name": "Dragon Jewel II [2]",
+    "slot": "2",
+    "skill": "Dragon Attack Lv. 2"
+  },
+  {
+    "name": "Drain Jewel II [2]",
+    "slot": "2",
+    "skill": "Stamina Thief Lv. 2"
+  },
+  {
+    "name": "Draincoat Jewel [2]",
+    "slot": "2",
+    "skill": "Exhaust Functionality Lv. 1"
+  },
+  {
+    "name": "Draw Jewel II [2]",
+    "slot": "2",
+    "skill": "Critical Draw Lv. 2"
+  },
+  {
+    "name": "Earplugs Jewel [2]",
+    "slot": "2",
+    "skill": "Earplugs Lv. 1"
+  },
+  {
+    "name": "Enhancer Jewel II [2]",
+    "slot": "2",
+    "skill": "Power Prolonger Lv. 2"
+  },
+  {
+    "name": "Evasion Jewel [2]",
+    "slot": "2",
+    "skill": "Evade Window Lv. 1"
+  },
+  {
+    "name": "Expert Jewel II [2]",
+    "slot": "2",
+    "skill": "Critical Eye Lv. 2"
+  },
+  {
+    "name": "Flawless Jewel [2]",
+    "slot": "2",
+    "skill": "Peak Performance Lv. 1"
+  },
+  {
+    "name": "Flight Jewel [2]",
+    "slot": "2",
+    "skill": "Airborne Lv. 1"
+  },
+  {
+    "name": "Focus Jewel II [2]",
+    "slot": "2",
+    "skill": "Focus Lv. 2"
+  },
+  {
+    "name": "Frost Jewel II [2]",
+    "slot": "2",
+    "skill": "Ice Attack Lv. 2"
+  },
+  {
+    "name": "Fungiform Jewel [2]",
+    "slot": "2",
+    "skill": "Mushroomancer Lv. 1"
+  },
+  {
+    "name": "Furor Jewel [2]",
+    "slot": "2",
+    "skill": "Resentment Lv. 1"
+  },
+  {
+    "name": "Gambit Jewel II [2]",
+    "slot": "2",
+    "skill": "Punishing Draw Lv. 2"
+  },
+  {
+    "name": "Grinder Jewel II [2]",
+    "slot": "2",
+    "skill": "Speed Sharpening Lv. 2"
+  },
+  {
+    "name": "Guardian Jewel II [2]",
+    "slot": "2",
+    "skill": "Offensive Guard Lv. 2"
+  },
+  {
+    "name": "Handicraft Jewel II [2]",
+    "slot": "2",
+    "skill": "Handicraft Lv. 2"
+  },
+  {
+    "name": "Ironwall Jewel II [2]",
+    "slot": "2",
+    "skill": "Guard Lv. 2"
+  },
+  {
+    "name": "Jumping Jewel [2]",
+    "slot": "2",
+    "skill": "Evade Extender Lv. 1"
+  },
+  {
+    "name": "KO Jewel II [2]",
+    "slot": "2",
+    "skill": "Slugger Lv. 2"
+  },
+  {
+    "name": "Magazine Jewel II [2]",
+    "slot": "2",
+    "skill": "Load Shells Lv. 2"
+  },
+  {
+    "name": "Maintenance Jewel [2]",
+    "slot": "2",
+    "skill": "Tool Specialist Lv. 1"
+  },
+  {
+    "name": "Mighty Jewel [2]",
+    "slot": "2",
+    "skill": "Maximum Might Lv. 1"
+  },
+  {
+    "name": "Mind's Eye Jewel II [2]",
+    "slot": "2",
+    "skill": "Mind's Eye Lv. 2"
+  },
+  {
+    "name": "Opener Jewel II [2]",
+    "slot": "2",
+    "skill": "Opening Shot Lv. 2"
+  },
+  {
+    "name": "Paralyzer Jewel II [2]",
+    "slot": "2",
+    "skill": "Paralysis Attack Lv. 2"
+  },
+  {
+    "name": "Phoenix Jewel [2]",
+    "slot": "2",
+    "skill": "Coalescence Lv. 1"
+  },
+  {
+    "name": "Poison Jewel [2]",
+    "slot": "2",
+    "skill": "Poison Duration Up Lv. 1"
+  },
+  {
+    "name": "Poisoncoat Jewel [2]",
+    "slot": "2",
+    "skill": "Poison Functionality Lv. 1"
+  },
+  {
+    "name": "Potential Jewel [2]",
+    "slot": "2",
+    "skill": "Heroics Lv. 1"
+  },
+  {
+    "name": "Precise Jewel II [2]",
+    "slot": "2",
+    "skill": "Ballistics Lv. 2"
+  },
+  {
+    "name": "Quickswitch Jewel II [2]",
+    "slot": "2",
+    "skill": "Rapid Morph Lv. 2"
+  },
+  {
+    "name": "Razor Sharp Jewel II [2]",
+    "slot": "2",
+    "skill": "Razor Sharp Lv. 2"
+  },
+  {
+    "name": "Refresh Jewel [2]",
+    "slot": "2",
+    "skill": "Stamina Surge Lv. 1"
+  },
+  {
+    "name": "Sharp Jewel II [2]",
+    "slot": "2",
+    "skill": "Protective Polish Lv. 2"
+  },
+  {
+    "name": "Shield Jewel II [2]",
+    "slot": "2",
+    "skill": "Guard Up Lv. 2"
+  },
+  {
+    "name": "Sleep Jewel II [2]",
+    "slot": "2",
+    "skill": "Sleep Attack Lv. 2"
+  },
+  {
+    "name": "Sonorous Jewel [2]",
+    "slot": "2",
+    "skill": "Horn Maestro Lv. 1"
+  },
+  {
+    "name": "Stream Jewel II [2]",
+    "slot": "2",
+    "skill": "Water Attack Lv. 2"
+  },
+  {
+    "name": "Trueshot Jewel II [2]",
+    "slot": "2",
+    "skill": "Special Ammo Boost Lv. 2"
+  },
+  {
+    "name": "Venom Jewel II [2]",
+    "slot": "2",
+    "skill": "Poison Attack Lv. 2"
+  },
+  {
+    "name": "Artillery Jewel III [3]",
+    "slot": "3",
+    "skill": "Artillery Lv. 3"
+  },
+  {
+    "name": "Attack Jewel III [3]",
+    "slot": "3",
+    "skill": "Attack Boost Lv. 3"
+  },
+  {
+    "name": "Bandolier Jewel III [3]",
+    "slot": "3",
+    "skill": "Tetrad Shot Lv. 3"
+  },
+  {
+    "name": "Bandolier/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Tetrad Shot Lv. 3 & Fire Attack Lv."
+  },
+  {
+    "name": "Bandolier/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 1 & Tetrad Shot Lv. 3"
+  },
+  {
+    "name": "Bandolier/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Tetrad Shot Lv. 3 & Dragon Attack Lv. 1"
+  },
+  {
+    "name": "Bandolier/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Tetrad Shot Lv. 3 & Ice Attack Lv. 1"
+  },
+  {
+    "name": "Bandolier/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Tetrad Shot Lv. 3 & Guard Lv. 1"
+  },
+  {
+    "name": "Bandolier/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Ballistics Lv. 1 & Tetrad Shot Lv. 3"
+  },
+  {
+    "name": "Bandolier/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 1 & Tetrad Shot Lv. 3"
+  },
+  {
+    "name": "Blast Jewel III [3]",
+    "slot": "3",
+    "skill": "Blast Attack Lv. 3"
+  },
+  {
+    "name": "Blaze Jewel III [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3"
+  },
+  {
+    "name": "Blaze/Bandolier Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Tetrad Shot Lv. 1"
+  },
+  {
+    "name": "Blaze/Crit Elem Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Critical Element Lv. 1"
+  },
+  {
+    "name": "Blaze/Enhancer Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Power Prolonger Lv. 1"
+  },
+  {
+    "name": "Blaze/Focus Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Focus Lv. 1"
+  },
+  {
+    "name": "Blaze/Guardian Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Offensive Guard Lv. 1"
+  },
+  {
+    "name": "Blaze/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Handicraft Lv. 1"
+  },
+  {
+    "name": "Blaze/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Guard Lv. 1"
+  },
+  {
+    "name": "Blaze/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Slugger Lv. 1"
+  },
+  {
+    "name": "Blaze/Opener Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Opening Shot Lv. 1"
+  },
+  {
+    "name": "Blaze/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Ballistics Lv. 1"
+  },
+  {
+    "name": "Blaze/Quickswitch Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Rapid Morph Lv. 1"
+  },
+  {
+    "name": "Blaze/Rzr Sharp Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Razor Sharp Lv. 1"
+  },
+  {
+    "name": "Blaze/Shield Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Guard Up Lv. 1"
+  },
+  {
+    "name": "Blunt Jewel III [3]",
+    "slot": "3",
+    "skill": "Bludgeoner Lv. 3"
+  },
+  {
+    "name": "Bolt Jewel III [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3"
+  },
+  {
+    "name": "Bolt/Bandolier Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Tetrad Shot Lv. 1"
+  },
+  {
+    "name": "Bolt/Crit Elem Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Critical Element Lv. 1"
+  },
+  {
+    "name": "Bolt/Enhancer Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Power Prolonger Lv. 1"
+  },
+  {
+    "name": "Bolt/Focus Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Focus Lv. 1"
+  },
+  {
+    "name": "Bolt/Guardian Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Offensive Guard Lv. 1"
+  },
+  {
+    "name": "Bolt/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Handicraft Lv. 1"
+  },
+  {
+    "name": "Bolt/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Guard Lv. 1"
+  },
+  {
+    "name": "Bolt/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Slugger Lv. 1"
+  },
+  {
+    "name": "Bolt/Opener Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Opening Shot Lv. 1"
+  },
+  {
+    "name": "Bolt/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Ballistics Lv. 1"
+  },
+  {
+    "name": "Bolt/Quickswitch Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Rapid Morph Lv. 1"
+  },
+  {
+    "name": "Bolt/Rzr Sharp Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Razor Sharp Lv. 1"
+  },
+  {
+    "name": "Bolt/Shield Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Guard Up Lv. 1"
+  },
+  {
+    "name": "Chain Jewel [3]",
+    "slot": "3",
+    "skill": "Burst Lv. 1"
+  },
+  {
+    "name": "Challenger Jewel [3]",
+    "slot": "3",
+    "skill": "Agitator Lv. 1"
+  },
+  {
+    "name": "Charge Jewel III [3]",
+    "slot": "3",
+    "skill": "Charge Master Lv. 3"
+  },
+  {
+    "name": "Charge Up/Attack Jewel [3]",
+    "slot": "3",
+    "skill": "Charge Up Lv. 1 & Attack Boost Lv. 1"
+  },
+  {
+    "name": "Charge Up/Draw Jewel [3]",
+    "slot": "3",
+    "skill": "Charge Up Lv. 1 & Critical Draw Lv. 1"
+  },
+  {
+    "name": "Charge Up/Expert Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Eye Lv. 1 & Charge Up Lv. 1"
+  },
+  {
+    "name": "Charge Up/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Charge Up Lv. 1"
+  },
+  {
+    "name": "Charge Up/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Charge Up Lv. 1 & Slugger Lv. 1"
+  },
+  {
+    "name": "Charge/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Charge Master Lv. 3 & Handicraft Lv. 1"
+  },
+  {
+    "name": "Charge/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Charge Master Lv. 3 & Slugger Lv. 1"
+  },
+  {
+    "name": "Counterattack Jewel [3]",
+    "slot": "3",
+    "skill": "Adrenaline Rush Lv. 1"
+  },
+  {
+    "name": "Crit Elem Jewel III [3]",
+    "slot": "3",
+    "skill": "Critical Element Lv. 3"
+  },
+  {
+    "name": "Crit Elem/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Element Lv. 3 & Fire Attack Lv. 1"
+  },
+  {
+    "name": "Crit Elem/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Element Lv. 3 & Thunder Attack Lv. 1"
+  },
+  {
+    "name": "Crit Elem/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Element Lv. 3 & Dragon Attack Lv. 1"
+  },
+  {
+    "name": "Crit Elem/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Element Lv. 3 & Ice Attack Lv. 1"
+  },
+  {
+    "name": "Crit Elem/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Element Lv. 3 & Handicraft Lv. 1"
+  },
+  {
+    "name": "Crit Elem/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Lv. 1 & Critical Element Lv. 3"
+  },
+  {
+    "name": "Crit Elem/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Element Lv. 3 & Slugger Lv. 1"
+  },
+  {
+    "name": "Crit Elem/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Element Lv. 3 & Water Attack Lv. 1"
+  },
+  {
+    "name": "Crit Element/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Ballistics Lv. 1 & Critical Element Lv. 3"
+  },
+  {
+    "name": "Crit Stat Jewel III [3]",
+    "slot": "3",
+    "skill": "Critical Status Lv. 3"
+  },
+  {
+    "name": "Crit Stat/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Status Lv. 3 & Handicraft Lv. 1"
+  },
+  {
+    "name": "Crit Stat/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Status Lv. 3 & Guard Lv. 1"
+  },
+  {
+    "name": "Crit Stat/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Status Lv. 3 & Ballistics Lv. 1"
+  },
+  {
+    "name": "Crit Status/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Status Lv. 3 & Slugger Lv. 1"
+  },
+  {
+    "name": "Critical Jewel III [3]",
+    "slot": "3",
+    "skill": "Critical Boost Lv. 3"
+  },
+  {
+    "name": "Dragon Jewel III [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3"
+  },
+  {
+    "name": "Dragon/Bandolier Jewel [3]",
+    "slot": "3",
+    "skill": "Tetrad Shot Lv. 1 & Dragon Attack Lv. 3 & Dragon Attack Lv. 3"
+  },
+  {
+    "name": "Dragon/Crit Elem Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Critical Element Lv. 1"
+  },
+  {
+    "name": "Dragon/Enhancer Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Power Prolonger Lv. 1"
+  },
+  {
+    "name": "Dragon/Focus Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Focus Lv. 1"
+  },
+  {
+    "name": "Dragon/Guardian Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Offensive Guard Lv. 1"
+  },
+  {
+    "name": "Dragon/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Handicraft Lv. 1"
+  },
+  {
+    "name": "Dragon/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Guard Lv. 1"
+  },
+  {
+    "name": "Dragon/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Slugger Lv. 1"
+  },
+  {
+    "name": "Dragon/Opener Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Opening Shot Lv. 1"
+  },
+  {
+    "name": "Dragon/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Ballistics Lv. 1"
+  },
+  {
+    "name": "Dragon/Quickswitch Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Rapid Morph Lv. 1"
+  },
+  {
+    "name": "Dragon/Rzr Sharp Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Razor Sharp Lv. 1"
+  },
+  {
+    "name": "Dragon/Shield Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Guard Up Lv. 1"
+  },
+  {
+    "name": "Drain Jewel III [3]",
+    "slot": "3",
+    "skill": "Stamina Thief Lv. 3"
+  },
+  {
+    "name": "Draw Jewel III [3]",
+    "slot": "3",
+    "skill": "Critical Draw Lv. 3"
+  },
+  {
+    "name": "Enhancer Jewel III [3]",
+    "slot": "3",
+    "skill": "Power Prolonger Lv. 3"
+  },
+  {
+    "name": "Enhancer/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Power Prolonger Lv. 3 & Fire Attack Lv. 1"
+  },
+  {
+    "name": "Enhancer/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 1 & Power Prolonger Lv. 3"
+  },
+  {
+    "name": "Enhancer/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Power Prolonger Lv. 3 & Dragon Attack Lv. 1"
+  },
+  {
+    "name": "Enhancer/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Power Prolonger Lv. 3 & Ice Attack Lv. 1"
+  },
+  {
+    "name": "Enhancer/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Power Prolonger Lv. 3"
+  },
+  {
+    "name": "Enhancer/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 1 & Power Prolonger Lv. 3"
+  },
+  {
+    "name": "Expert Jewel III [3]",
+    "slot": "3",
+    "skill": "Critical Eye Lv. 3"
+  },
+  {
+    "name": "Flayer Jewel [3]",
+    "slot": "3",
+    "skill": "Flayer Lv. 1"
+  },
+  {
+    "name": "Flight/Attack Jewel [3]",
+    "slot": "3",
+    "skill": "Airborne Lv. 1 & Attack Boost Lv. 1"
+  },
+  {
+    "name": "Flight/Draw Jewel [3]",
+    "slot": "3",
+    "skill": "Airborne Lv. 1 & Critical Draw Lv. 1"
+  },
+  {
+    "name": "Flight/Expert Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Eye Lv. 1 & Airborne Lv. 1"
+  },
+  {
+    "name": "Flight/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Airborne Lv. 1"
+  },
+  {
+    "name": "Focus Jewel III [3]",
+    "slot": "3",
+    "skill": "Focus Lv. 3"
+  },
+  {
+    "name": "Focus/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Focus Lv. 3 & Fire Attack Lv. 1"
+  },
+  {
+    "name": "Focus/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 1 & Focus Lv. 3"
+  },
+  {
+    "name": "Focus/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Focus Lv. 3 & Dragon Attack Lv. 1"
+  },
+  {
+    "name": "Focus/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Focus Lv. 3 & Ice Attack Lv. 1"
+  },
+  {
+    "name": "Focus/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Focus Lv. 3"
+  },
+  {
+    "name": "Focus/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Slugger Lv. 1 & Focus Lv. 3"
+  },
+  {
+    "name": "Focus/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Focus Lv. 3 & Ballistics Lv. 1"
+  },
+  {
+    "name": "Focus/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 1 & Focus Lv. 3"
+  },
+  {
+    "name": "Foray Jewel [3]",
+    "slot": "3",
+    "skill": "Foray Lv. 1"
+  },
+  {
+    "name": "Forceshot Jewel [3]",
+    "slot": "3",
+    "skill": "Normal Shots Lv. 1"
+  },
+  {
+    "name": "Frost Jewel III [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3"
+  },
+  {
+    "name": "Frost/Bandolier Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Tetrad Shot Lv. 1"
+  },
+  {
+    "name": "Frost/Crit Elem Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Critical Element Lv. 1"
+  },
+  {
+    "name": "Frost/Enhancer Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Power Prolonger Lv. 1"
+  },
+  {
+    "name": "Frost/Focus Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Focus Lv. 1"
+  },
+  {
+    "name": "Frost/Guardian Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Offensive Guard Lv. 1"
+  },
+  {
+    "name": "Frost/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Handicraft Lv. 1"
+  },
+  {
+    "name": "Frost/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Guard Lv. 1"
+  },
+  {
+    "name": "Frost/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Slugger Lv. 1"
+  },
+  {
+    "name": "Frost/Opener Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Opening Shot Lv. 1"
+  },
+  {
+    "name": "Frost/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Ballistics Lv. 1"
+  },
+  {
+    "name": "Frost/Quickswitch Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Rapid Morph Lv. 1"
+  },
+  {
+    "name": "Frost/Rzr Sharp Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Razor Sharp Lv. 1"
+  },
+  {
+    "name": "Frost/Shield Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Up Lv. 1 & Ice Attack Lv. 3"
+  },
+  {
+    "name": "Gambit Jewel III [3]",
+    "slot": "3",
+    "skill": "Punishing Draw Lv. 3"
+  },
+  {
+    "name": "Gambit/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Punishing Draw Lv. 3 & Punishing Draw Lv. 3"
+  },
+  {
+    "name": "Gambit/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Punishing Draw Lv. 3 & Guard Lv. 1"
+  },
+  {
+    "name": "Gambit/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Punishing Draw Lv. 3 & Slugger Lv. 1"
+  },
+  {
+    "name": "Grinder/Attack Jewel [3]",
+    "slot": "3",
+    "skill": "Speed Sharpening Lv. 2 & Attack Boost Lv. 1"
+  },
+  {
+    "name": "Grinder/Draw Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Draw Lv. 1 & Speed Sharpening Lv. 2"
+  },
+  {
+    "name": "Grinder/Expert Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Eye Lv. 1 & Speed Sharpening Lv. 2"
+  },
+  {
+    "name": "Grinder/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Speed Sharpening Lv. 2 & Handicraft Lv. 1"
+  },
+  {
+    "name": "Grinder/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Speed Sharpening Lv. 2 & Guard Lv. 1"
+  },
+  {
+    "name": "Grinder/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Speed Sharpening Lv. 2 & Slugger Lv. 1"
+  },
+  {
+    "name": "Guardian Jewel III [3]",
+    "slot": "3",
+    "skill": "Offensive Guard Lv. 3"
+  },
+  {
+    "name": "Guardian/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Offensive Guard Lv. 3 & Fire Attack Lv. 1"
+  },
+  {
+    "name": "Guardian/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Offensive Guard Lv. 3 & Thunder Attack Lv. 1"
+  },
+  {
+    "name": "Guardian/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Offensive Guard Lv. 3 & Dragon Attack Lv. 1"
+  },
+  {
+    "name": "Guardian/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Offensive Guard Lv. 3 & Ice Attack Lv. 1"
+  },
+  {
+    "name": "Guardian/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Offensive Guard Lv. 3 & Handicraft Lv. 1"
+  },
+  {
+    "name": "Guardian/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Offensive Guard Lv. 3 & Guard Lv. 1"
+  },
+  {
+    "name": "Guardian/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Offensive Guard Lv. 3 & Water Attack Lv. 1"
+  },
+  {
+    "name": "Handicraft Jewel III [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 3"
+  },
+  {
+    "name": "Ironwall Jewel III [3]",
+    "slot": "3",
+    "skill": "Guard Lv. 3"
+  },
+  {
+    "name": "KO Jewel III [3]",
+    "slot": "3",
+    "skill": "Slugger Lv. 3"
+  },
+  {
+    "name": "Magazine/Attack Jewel [3]",
+    "slot": "3",
+    "skill": "Load Shells Lv. 2 & Attack Boost Lv. 1"
+  },
+  {
+    "name": "Magazine/Draw Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Draw Lv. 1 & Load Shells Lv. 2"
+  },
+  {
+    "name": "Magazine/Expert Jewel [3]",
+    "slot": "3",
+    "skill": "Load Shells Lv. 2 & Critical Eye Lv. 1"
+  },
+  {
+    "name": "Magazine/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Load Shells Lv. 2 & Handicraft Lv. 1"
+  },
+  {
+    "name": "Magazine/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Lv. 1 & Load Shells Lv. 2"
+  },
+  {
+    "name": "Mastery Jewel [3]",
+    "slot": "3",
+    "skill": "Master's Touch Lv. 1"
+  },
+  {
+    "name": "Mind's Eye Jewel III [3]",
+    "slot": "3",
+    "skill": "Mind's Eye Lv. 3"
+  },
+  {
+    "name": "Opener Jewel III [3]",
+    "slot": "3",
+    "skill": "Opening Shot Lv. 3"
+  },
+  {
+    "name": "Opener/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Opening Shot Lv. 3 & Fire Attack Lv. 1"
+  },
+  {
+    "name": "Opener/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 1 & Opening Shot Lv. 3"
+  },
+  {
+    "name": "Opener/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Opening Shot Lv. 3 & Dragon Attack Lv. 1"
+  },
+  {
+    "name": "Opener/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Opening Shot Lv. 3 & Ice Attack Lv. 1"
+  },
+  {
+    "name": "Opener/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Opening Shot Lv. 3 & Guard Lv. 1"
+  },
+  {
+    "name": "Opener/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Ballistics Lv. 1 & Opening Shot Lv. 3"
+  },
+  {
+    "name": "Opener/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 1 & Opening Shot Lv. 3"
+  },
+  {
+    "name": "Paracoat Jewel [3]",
+    "slot": "3",
+    "skill": "Para Functionality Lv. 1"
+  },
+  {
+    "name": "Paralyzer Jewel III [3]",
+    "slot": "3",
+    "skill": "Paralysis Attack Lv. 3"
+  },
+  {
+    "name": "Pierce Jewel [3]",
+    "slot": "3",
+    "skill": "Piercing Shots Lv. 1"
+  },
+  {
+    "name": "Poison/Attack Jewel [3]",
+    "slot": "3",
+    "skill": "Poison Duration Up Lv. 1 & Attack Boost Lv. 1"
+  },
+  {
+    "name": "Poison/Draw Jewel [3]",
+    "slot": "3",
+    "skill": "Poison Duration Up Lv. 1 & Critical Draw Lv. 1"
+  },
+  {
+    "name": "Poison/Expert Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Eye Lv. 1 & Poison Duration Up Lv. 1"
+  },
+  {
+    "name": "Poison/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Poison Duration Up Lv. 1"
+  },
+  {
+    "name": "Poison/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Poison Duration Up Lv. 1 & Guard Lv. 1"
+  },
+  {
+    "name": "Poison/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Slugger Lv. 1 & Poison Duration Up Lv. 1"
+  },
+  {
+    "name": "Poison/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Poison Duration Up Lv. 1 & Ballistics Lv. 1"
+  },
+  {
+    "name": "Precise Jewel III [3]",
+    "slot": "3",
+    "skill": "Ballistics Lv. 3"
+  },
+  {
+    "name": "Quickswitch Jewel III [3]",
+    "slot": "3",
+    "skill": "Rapid Morph Lv."
+  },
+  {
+    "name": "Quickswitch/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Rapid Morph Lv. 3 & Fire Attack Lv. 1"
+  },
+  {
+    "name": "Quickswitch/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 1 & Rapid Morph Lv. 3"
+  },
+  {
+    "name": "Quickswitch/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Rapid Morph Lv. 3 & Dragon Attack Lv. 1"
+  },
+  {
+    "name": "Quickswitch/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Rapid Morph Lv. 3 & Ice Attack Lv. 1"
+  },
+  {
+    "name": "Quickswitch/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Rapid Morph Lv. 3"
+  },
+  {
+    "name": "Quickswitch/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Lv. 1 & Rapid Morph Lv. 3"
+  },
+  {
+    "name": "Quickswitch/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Rapid Morph Lv. 3 & Slugger Lv. 1"
+  },
+  {
+    "name": "Quickswitch/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 1 & Rapid Morph Lv. 3"
+  },
+  {
+    "name": "Razor Sharp/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Slugger Lv. 1 & Razor Sharp Lv. 3"
+  },
+  {
+    "name": "Rzr Sharp Jewel III [3]",
+    "slot": "3",
+    "skill": "Razor Sharp Lv. 3"
+  },
+  {
+    "name": "Rzr Sharp/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Razor Sharp Lv. 3 & Fire Attack Lv. 1"
+  },
+  {
+    "name": "Rzr Sharp/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Razor Sharp Lv. 3 & Thunder Attack Lv. 1"
+  },
+  {
+    "name": "Rzr Sharp/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 1 & Razor Sharp Lv. 3"
+  },
+  {
+    "name": "Rzr Sharp/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 1 & Razor Sharp Lv. 3"
+  },
+  {
+    "name": "Rzr Sharp/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Razor Sharp Lv. 3 & Handicraft Lv. 1"
+  },
+  {
+    "name": "Rzr Sharp/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Razor Sharp Lv. 3 & Guard Lv. 1"
+  },
+  {
+    "name": "Rzr Sharp/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Razor Sharp Lv. 3 & Water Attack Lv. 1"
+  },
+  {
+    "name": "Salvo Jewel [3]",
+    "slot": "3",
+    "skill": "Rapid Fire Up Lv. 1"
+  },
+  {
+    "name": "Sharp Jewel III [3]",
+    "slot": "3",
+    "skill": "Protective Polish Lv. 3"
+  },
+  {
+    "name": "Shield Jewel III [3]",
+    "slot": "3",
+    "skill": "Guard Up Lv. 3"
+  },
+  {
+    "name": "Shield/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Up Lv. 3 & Fire Attack Lv. 1"
+  },
+  {
+    "name": "Shield/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 1 & Guard Up Lv. 3"
+  },
+  {
+    "name": "Shield/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Up Lv. 3 & Dragon Attack Lv. 1"
+  },
+  {
+    "name": "Shield/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Up Lv. 3 & Ice Attack Lv. 1"
+  },
+  {
+    "name": "Shield/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Guard Up Lv. 3"
+  },
+  {
+    "name": "Shield/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Up Lv. 3 & Guard Lv. 1"
+  },
+  {
+    "name": "Shield/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 1 & Guard Up Lv. 3"
+  },
+  {
+    "name": "Sleep Jewel III [3]",
+    "slot": "3",
+    "skill": "Sleep Attack Lv. 3"
+  },
+  {
+    "name": "Sleepcoat Jewel [3]",
+    "slot": "3",
+    "skill": "Sleep Functionality Lv. 1"
+  },
+  {
+    "name": "Sonorous/Attack Jewel [3]",
+    "slot": "3",
+    "skill": "Horn Maestro Lv. 2 & Attack Boost Lv. 1"
+  },
+  {
+    "name": "Sonorous/Draw Jewel [3]",
+    "slot": "3",
+    "skill": "Horn Maestro Lv. 2 & Critical Draw Lv. 1"
+  },
+  {
+    "name": "Sonorous/Expert Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Eye Lv. 1 & Horn Maestro Lv. 2"
+  },
+  {
+    "name": "Sonorous/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Horn Maestro Lv. 2"
+  },
+  {
+    "name": "Sonorous/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Horn Maestro Lv. 2 & Slugger Lv. 1"
+  },
+  {
+    "name": "Spread Jewel [3]",
+    "slot": "3",
+    "skill": "Spread/Power Shots Lv. 1"
+  },
+  {
+    "name": "Stream Jewel III [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3"
+  },
+  {
+    "name": "Stream/Bandolier Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Tetrad Shot Lv. 1"
+  },
+  {
+    "name": "Stream/Crit Elem Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Critical Element Lv. 1"
+  },
+  {
+    "name": "Stream/Enhancer Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Power Prolonger Lv. 1"
+  },
+  {
+    "name": "Stream/Focus Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Focus Lv. 1"
+  },
+  {
+    "name": "Stream/Guardian Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Guard Up Lv. 1"
+  },
+  {
+    "name": "Stream/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Handicraft Lv. 1"
+  },
+  {
+    "name": "Stream/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Guard Lv. 1"
+  },
+  {
+    "name": "Stream/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Slugger Lv. 1"
+  },
+  {
+    "name": "Stream/Opener Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Opening Shot Lv. 1"
+  },
+  {
+    "name": "Stream/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Ballistics Lv. 1"
+  },
+  {
+    "name": "Stream/Quickswitch Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Rapid Morph Lv. 1"
+  },
+  {
+    "name": "Stream/Rzr Sharp Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Razor Sharp Lv. 1"
+  },
+  {
+    "name": "Stream/Shield Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Up Lv. 1 & Water Attack Lv. 3"
+  },
+  {
+    "name": "Tenderizer Jewel [3]",
+    "slot": "3",
+    "skill": "Weakness Exploit Lv. 1"
+  },
+  {
+    "name": "Throttle Jewel [3]",
+    "slot": "3",
+    "skill": "Latent Power Lv. 1"
+  },
+  {
+    "name": "Venom Jewel III [3]",
+    "slot": "3",
+    "skill": "Poison Attack Lv. 3"
+  }
+]

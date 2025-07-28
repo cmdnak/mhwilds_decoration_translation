@@ -1,0 +1,2168 @@
+[
+  {
+    "name": "Adapt Jewel [1]",
+    "slot": "1",
+    "skill": "Adaptability Lv. 1",
+    "description": "Grants protection against environmental damage, such as from heat or cold."
+  },
+  {
+    "name": "Antiblast Jewel [1]",
+    "slot": "1",
+    "skill": "Blast Resistance Lv. 1",
+    "description": "Grants protection against blastblight."
+  },
+  {
+    "name": "Antidote Jewel [1]",
+    "slot": "1",
+    "skill": "Poison Resistance Lv. 1",
+    "description": "Reduces damage while poisoned."
+  },
+  {
+    "name": "Antipara Jewel [1]",
+    "slot": "1",
+    "skill": "Paralysis Resistance Lv. 1",
+    "description": "Reduces the duration of paralysis."
+  },
+  {
+    "name": "Artillery Jewel [1]",
+    "slot": "1",
+    "skill": "Artillery Lv. 1",
+    "description": "Strengthens explosive attacks like shells, Wyvern's Fire, charge blade phial attacks, and Sticky Ammo."
+  },
+  {
+    "name": "Attack Jewel [1]",
+    "slot": "1",
+    "skill": "Attack Boost Lv. 1",
+    "description": "Increases attack power."
+  },
+  {
+    "name": "Bandolier Jewel [1]",
+    "slot": "1",
+    "skill": "Tetrad Shot Lv. 1",
+    "description": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots."
+  },
+  {
+    "name": "Blast Jewel [1]",
+    "slot": "1",
+    "skill": "Blast Attack Lv. 1",
+    "description": "Increases the rate of blast buildup. (Blast buildup has a maximum limit.)"
+  },
+  {
+    "name": "Blaze Jewel [1]",
+    "slot": "1",
+    "skill": "Fire Attack Lv. 1",
+    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Blunt Jewel [1]",
+    "slot": "1",
+    "skill": "Bludgeoner Lv. 1",
+    "description": "Increases attack power when your weapon sharpness is low."
+  },
+  {
+    "name": "Bolt Jewel [1]",
+    "slot": "1",
+    "skill": "Thunder Attack Lv. 1",
+    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Bomber Jewel [1]",
+    "slot": "1",
+    "skill": "Bombardier Lv. 1",
+    "description": "Increases the damage of explosive items."
+  },
+  {
+    "name": "Botany Jewel [1]",
+    "slot": "1",
+    "skill": "Botanist Lv. 1",
+    "description": "Increases the quantity of herbs and other consumable items you gather."
+  },
+  {
+    "name": "Brace Jewel [1]",
+    "slot": "1",
+    "skill": "Flinch Free Lv. 1",
+    "description": "Prevents knockbacks and other reactions to small damage."
+  },
+  {
+    "name": "Charge Jewel [1]",
+    "slot": "1",
+    "skill": "Charge Master Lv. 1",
+    "description": "Increases element power and status buildup for charged attacks."
+  },
+  {
+    "name": "Climber Jewel [1]",
+    "slot": "1",
+    "skill": "Cliffhanger Lv. 1",
+    "description": "Decreases stamina depletion when climbing on vines."
+  },
+  {
+    "name": "Crit Element Jewel [1]",
+    "slot": "1",
+    "skill": "Critical Element Lv. 1",
+    "description": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits."
+  },
+  {
+    "name": "Crit Status Jewel [1]",
+    "slot": "1",
+    "skill": "Critical Status Lv. 1",
+    "description": "Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits."
+  },
+  {
+    "name": "Critical Jewel [1]",
+    "slot": "1",
+    "skill": "Critical Boost Lv. 1",
+    "description": "Increases the damage of critical hits."
+  },
+  {
+    "name": "Def Lock Jewel [1]",
+    "slot": "1",
+    "skill": "Iron Skin Lv. 1",
+    "description": "Grants protection against defense down."
+  },
+  {
+    "name": "Defense Jewel [1]",
+    "slot": "1",
+    "skill": "Defense Boost Lv. 1",
+    "description": "Increases defense. Also improves resistances at higher levels."
+  },
+  {
+    "name": "Dive Jewel [1]",
+    "slot": "1",
+    "skill": "Leap of Faith Lv. 1",
+    "description": "Allows you to do a dive-evade when facing towards large monsters and extends the dive-evade distance."
+  },
+  {
+    "name": "Dragon Jewel [1]",
+    "slot": "1",
+    "skill": "Dragon Attack Lv. 1",
+    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Dragon Res Jewel [1]",
+    "slot": "1",
+    "skill": "Dragon Resistance Lv. 1",
+    "description": "Increases dragon resistance. Also improves defense at higher levels."
+  },
+  {
+    "name": "Drain Jewel [1]",
+    "slot": "1",
+    "skill": "Stamina Thief Lv. 1",
+    "description": "Increases certain attacks' ability to exhaust monsters."
+  },
+  {
+    "name": "Draw Jewel [1]",
+    "slot": "1",
+    "skill": "Critical Draw Lv. 1",
+    "description": "Increases affinity when performing draw attacks. (Not effective while riding.)"
+  },
+  {
+    "name": "Enduring Jewel [1]",
+    "slot": "1",
+    "skill": "Item Prolonger Lv. 1",
+    "description": "Extends the duration of some item effects."
+  },
+  {
+    "name": "Enhancer Jewel [1]",
+    "slot": "1",
+    "skill": "Power Prolonger Lv. 1",
+    "description": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer."
+  },
+  {
+    "name": "Escape Jewel [1]",
+    "slot": "1",
+    "skill": "Bind Resistance Lv. 1",
+    "description": "Grants protection against webbed status and frostblight."
+  },
+  {
+    "name": "Expert Jewel [1]",
+    "slot": "1",
+    "skill": "Critical Eye Lv. 1",
+    "description": "Increases affinity."
+  },
+  {
+    "name": "Fire Res Jewel [1]",
+    "slot": "1",
+    "skill": "Fire Resistance Lv. 1",
+    "description": "Increases fire resistance. Also improves defense at higher levels."
+  },
+  {
+    "name": "Flash Jewel [1]",
+    "slot": "1",
+    "skill": "Blindsider Lv. 1",
+    "description": "Improves the effectiveness of flash attacks and items."
+  },
+  {
+    "name": "Focus Jewel [1]",
+    "slot": "1",
+    "skill": "Focus Lv. 1",
+    "description": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks."
+  },
+  {
+    "name": "Footing Jewel [1]",
+    "slot": "1",
+    "skill": "Tremor Resistance Lv. 1",
+    "description": "Grants protection against ground tremors."
+  },
+  {
+    "name": "Friendship Jewel [1]",
+    "slot": "1",
+    "skill": "Wide-Range Lv. 1",
+    "description": "Allows the effects of certain items to also affect nearby allies."
+  },
+  {
+    "name": "Frost Jewel [1]",
+    "slot": "1",
+    "skill": "Ice Attack Lv. 1",
+    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Gambit Jewel [1]",
+    "slot": "1",
+    "skill": "Punishing Draw Lv. 1",
+    "description": "Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.)"
+  },
+  {
+    "name": "Geology Jewel [1]",
+    "slot": "1",
+    "skill": "Geologist Lv. 1",
+    "description": "ncreases the number of items you gain at gathering points."
+  },
+  {
+    "name": "Gobbler Jewel [1]",
+    "slot": "1",
+    "skill": "Speed Eating Lv. 1",
+    "description": "Increases meat-eating and item-consumption speed."
+  },
+  {
+    "name": "Grinder Jewel [1]",
+    "slot": "1",
+    "skill": "Speed Sharpening Lv. 1",
+    "description": "Speeds up weapon sharpening when using a whetstone."
+  },
+  {
+    "name": "Growth Jewel [1]",
+    "slot": "1",
+    "skill": "Self-Improvement Lv. 1",
+    "description": "Attack and defense increase as time passes while on a quest. (The maximum is reached after 30 minutes.)"
+  },
+  {
+    "name": "Guardian Jewel [1]",
+    "slot": "1",
+    "skill": "Offensive Guard Lv. 1",
+    "description": "Temporarily increases attack power after executing a perfectly-timed guard."
+  },
+  {
+    "name": "Handicraft Jewel [1]",
+    "slot": "1",
+    "skill": "Handicraft Lv. 1",
+    "description": "Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Hungerless Jewel [1]",
+    "slot": "1",
+    "skill": "Hunger Resistance Lv. 1",
+    "description": "Reduces maximum stamina depletion over time."
+  },
+  {
+    "name": "Ice Res Jewel [1]",
+    "slot": "1",
+    "skill": "Ice Resistance Lv. 1",
+    "description": "Increases ice resistance. Also improves defense at higher levels."
+  },
+  {
+    "name": "Intimidator Jewel [1]",
+    "slot": "1",
+    "skill": "Intimidator Lv. 1",
+    "description": "Reduces the chance small monsters will attack after spotting you. (Has no effect on certain monsters.)"
+  },
+  {
+    "name": "Ironwall Jewel [1]",
+    "slot": "1",
+    "skill": "Guard Lv. 1",
+    "description": "Reduces knockbacks and stamina depletion when guarding."
+  },
+  {
+    "name": "KO Jewel [1]",
+    "slot": "1",
+    "skill": "Slugger Lv. 1",
+    "description": "Makes it easier to stun monsters."
+  },
+  {
+    "name": "Leap Jewel [1]",
+    "slot": "1",
+    "skill": "Jump Master Lv. 1",
+    "description": "Prevents attacks from knocking you back during a jump."
+  },
+  {
+    "name": "Magazine Jewel [1]",
+    "slot": "1",
+    "skill": "Load Shells Lv. 1",
+    "description": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity."
+  },
+  {
+    "name": "Medicine Jewel [1]",
+    "slot": "1",
+    "skill": "Recovery Up Lv. 1",
+    "description": "Increases the amount recovered when restoring health."
+  },
+  {
+    "name": "Mind's Eye Jewel [1]",
+    "slot": "1",
+    "skill": "Mind's Eye Lv. 1",
+    "description": "Your attacks are deflected less and deal more damage to hard targets."
+  },
+  {
+    "name": "Mirewalker Jewel [1]",
+    "slot": "1",
+    "skill": "Aquatic/Oilsilt Mobility Lv. 1",
+    "description": "Grants resistance against impairments to mobility while in water, oilsilt, or streams."
+  },
+  {
+    "name": "Opener Jewel [1]",
+    "slot": "1",
+    "skill": "Opening Shot Lv. 1",
+    "description": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded."
+  },
+  {
+    "name": "Paralyzer Jewel [1]",
+    "slot": "1",
+    "skill": "Paralysis Attack Lv. 1",
+    "description": "Increases the rate of paralysis buildup. (Paralysis buildup has a maximum limit.)"
+  },
+  {
+    "name": "Pep Jewel [1]",
+    "slot": "1",
+    "skill": "Sleep Resistance Lv. 1",
+    "description": "Reduces the duration of sleep."
+  },
+  {
+    "name": "Perfume Jewel [1]",
+    "slot": "1",
+    "skill": "Stench Resistance Lv. 1",
+    "description": "Grants protection against stench."
+  },
+  {
+    "name": "Physique Jewel [1]",
+    "slot": "1",
+    "skill": "Constitution Lv. 1",
+    "description": "Reduces stamina depletion when evading, blocking, or doing certain other actions."
+  },
+  {
+    "name": "Precise Jewel [1]",
+    "slot": "1",
+    "skill": "Ballistics Lv. 1",
+    "description": "Extends the range in which ammo and arrows have maximum power."
+  },
+  {
+    "name": "Protection Jewel [1]",
+    "slot": "1",
+    "skill": "Divine Blessing Lv. 1",
+    "description": "Has a predetermined chance of reducing the damage you take."
+  },
+  {
+    "name": "Quickswitch Jewel [1]",
+    "slot": "1",
+    "skill": "Rapid Morph Lv. 1",
+    "description": "Increases switch speed and power for switch axes and charge blades."
+  },
+  {
+    "name": "Ranger Jewel [1]",
+    "slot": "1",
+    "skill": "Outdoorsman Lv. 1",
+    "description": "Improves fishing, grilling, and transporting abilities."
+  },
+  {
+    "name": "Razor Sharp Jewel [1]",
+    "slot": "1",
+    "skill": "Razor Sharp Lv. 1",
+    "description": "Prevents your weapon from losing sharpness."
+  },
+  {
+    "name": "Recovery Jewel [1]",
+    "slot": "1",
+    "skill": "Recovery Speed Lv. 1",
+    "description": "Speeds healing of recoverable damage (the red portion of the Health Gauge)."
+  },
+  {
+    "name": "Sane Jewel [1]",
+    "slot": "1",
+    "skill": "Antivirus Lv. 1",
+    "description": "Once infected, makes it easier to overcome the Frenzy and increases affinity if cured."
+  },
+  {
+    "name": "Satiated Jewel [1]",
+    "slot": "1",
+    "skill": "Free Meal Lv. 1",
+    "description": "Gives you a predetermined chance of consuming a food or drink item for free."
+  },
+  {
+    "name": "Sharp Jewel [1]",
+    "slot": "1",
+    "skill": "Protective Polish Lv. 1",
+    "description": "Weapon sharpness does not decrease for a set time after sharpening."
+  },
+  {
+    "name": "Sheath Jewel [1]",
+    "slot": "1",
+    "skill": "Quick Sheathe Lv. 1",
+    "description": "Speeds up weapon sheathing."
+  },
+  {
+    "name": "Shield Jewel [1]",
+    "slot": "1",
+    "skill": "Guard Up Lv. 1",
+    "description": "Allows you to guard against ordinarily unblockable attacks."
+  },
+  {
+    "name": "Shockproof Jewel [1]",
+    "slot": "1",
+    "skill": "Shock Absorber Lv. 1",
+    "description": "Disables damage reactions when you hit a friend or when a friend hits you."
+  },
+  {
+    "name": "Sleep Jewel [1]",
+    "slot": "1",
+    "skill": "Sleep Attack Lv. 1",
+    "description": "Increases the rate of sleep buildup. (Sleep buildup has a maximum limit.)"
+  },
+  {
+    "name": "Specimen Jewel [1]",
+    "slot": "1",
+    "skill": "Entomologist Lv. 1",
+    "description": "The bodies of small insect monsters won't be destroyed, allowing them to be carved."
+  },
+  {
+    "name": "Sprinter Jewel [1]",
+    "slot": "1",
+    "skill": "Marathon Runner Lv. 1",
+    "description": "Slows down stamina depletion for actions that continuously drain stamina (such as dashing)."
+  },
+  {
+    "name": "Steadfast Jewel [1]",
+    "slot": "1",
+    "skill": "Stun Resistance Lv. 1",
+    "description": "Reduces the duration of stun."
+  },
+  {
+    "name": "Stream Jewel [1]",
+    "slot": "1",
+    "skill": "Water Attack Lv. 1",
+    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Survival Jewel [1]",
+    "slot": "1",
+    "skill": "Survival Expert Lv. 1",
+    "description": "Extra health is recovered from environmental interactables."
+  },
+  {
+    "name": "Suture Jewel [1]",
+    "slot": "1",
+    "skill": "Bleeding Resistance Lv. 1",
+    "description": "Grants protection against bleeding."
+  },
+  {
+    "name": "Thunder Res Jewel [1]",
+    "slot": "1",
+    "skill": "Thunder Resistance Lv. 1",
+    "description": "Increases thunder resistance. Also improves defense at higher levels."
+  },
+  {
+    "name": "Trueshot Jewel [1]",
+    "slot": "1",
+    "skill": "Special Ammo Boost Lv. 1",
+    "description": "Increases the power of the bowgun's special ammo, and the bow's Dragon Piercer, Thousand Dragons, and Tracer."
+  },
+  {
+    "name": "Venom Jewel [1]",
+    "slot": "1",
+    "skill": "Poison Attack Lv. 1",
+    "description": "Increases the rate of poison buildup. (Poison buildup has a maximum limit.)"
+  },
+  {
+    "name": "Water Res Jewel [1]",
+    "slot": "1",
+    "skill": "Water Resistance Lv. 1",
+    "description": "Increases water resistance. Also improves defense at higher levels."
+  },
+  {
+    "name": "Wind Resist Jewel [1]",
+    "slot": "1",
+    "skill": "Windproof Lv. 1",
+    "description": "Grants protection against wind pressure."
+  },
+  {
+    "name": "Ambush Jewel [2]",
+    "slot": "2",
+    "skill": "Ambush Lv. 1",
+    "description": "Temporarily increases damage to large monsters with a successful Sneak Attack."
+  },
+  {
+    "name": "Artillery Jewel II [2]",
+    "slot": "2",
+    "skill": "Artillery Lv. 2",
+    "description": "Strengthens explosive attacks like shells, Wyvern's Fire, charge blade phial attacks, and Sticky Ammo."
+  },
+  {
+    "name": "Attack Jewel II [2]",
+    "slot": "2",
+    "skill": "Attack Boost Lv. 2",
+    "description": "Increases attack power."
+  },
+  {
+    "name": "Bandolier Jewel II [2]",
+    "slot": "2",
+    "skill": "Tetrad Shot Lv. 2",
+    "description": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots."
+  },
+  {
+    "name": "Blast Jewel II [2]",
+    "slot": "2",
+    "skill": "Blast Attack Lv. 2",
+    "description": "Increases the rate of blast buildup. (Blast buildup has a maximum limit.)"
+  },
+  {
+    "name": "Blastcoat Jewel [2]",
+    "slot": "2",
+    "skill": "Blast Functionality Lv. 1",
+    "description": "Allows you to apply blast coatings."
+  },
+  {
+    "name": "Blaze Jewel II [2]",
+    "slot": "2",
+    "skill": "Fire Attack Lv. 2",
+    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Blunt Jewel II [2]",
+    "slot": "2",
+    "skill": "Bludgeoner Lv. 2",
+    "description": "Increases attack power when your weapon sharpness is low."
+  },
+  {
+    "name": "Bolt Jewel II [2]",
+    "slot": "2",
+    "skill": "Thunder Attack Lv. 2",
+    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Charge Jewel II [2]",
+    "slot": "2",
+    "skill": "Charge Master Lv. 2",
+    "description": "Increases element power and status buildup for charged attacks."
+  },
+  {
+    "name": "Charge Up Jewel [2]",
+    "slot": "2",
+    "skill": "Charge Up Lv. 2",
+    "description": "Increases your power to induce stun when you hit a monster with a hammer's charged attack."
+  },
+  {
+    "name": "Counter Jewel [2]",
+    "slot": "2",
+    "skill": "Counterstrike Lv. 1",
+    "description": "Temporarily increases attack power after being knocked back."
+  },
+  {
+    "name": "Crit Element Jewel II [2]",
+    "slot": "2",
+    "skill": "Critical Element Lv. 2",
+    "description": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits."
+  },
+  {
+    "name": "Crit Status Jewel II [2]",
+    "slot": "2",
+    "skill": "Critical Status Lv. 2",
+    "description": "Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits."
+  },
+  {
+    "name": "Critical Jewel II [2]",
+    "slot": "2",
+    "skill": "Critical Boost Lv. 2",
+    "description": "Increases the damage of critical hits."
+  },
+  {
+    "name": "Destroyer Jewel [2]",
+    "slot": "2",
+    "skill": "Partbreaker Lv. 1",
+    "description": "Makes it easier to break large monster parts, and increases damage dealt when destroying a wound with a Focus Strike."
+  },
+  {
+    "name": "Dragon Jewel II [2]",
+    "slot": "2",
+    "skill": "Dragon Attack Lv. 2",
+    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Drain Jewel II [2]",
+    "slot": "2",
+    "skill": "Stamina Thief Lv. 2",
+    "description": "Increases certain attacks' ability to exhaust monsters."
+  },
+  {
+    "name": "Draincoat Jewel [2]",
+    "slot": "2",
+    "skill": "Exhaust Functionality Lv. 1",
+    "description": "Allows you to apply exhaust coatings."
+  },
+  {
+    "name": "Draw Jewel II [2]",
+    "slot": "2",
+    "skill": "Critical Draw Lv. 2",
+    "description": "Increases affinity when performing draw attacks. (Not effective while riding.)"
+  },
+  {
+    "name": "Earplugs Jewel [2]",
+    "slot": "2",
+    "skill": "Earplugs Lv. 1",
+    "description": "Grants protection from large monsters' roars."
+  },
+  {
+    "name": "Enhancer Jewel II [2]",
+    "slot": "2",
+    "skill": "Power Prolonger Lv. 2",
+    "description": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer."
+  },
+  {
+    "name": "Evasion Jewel [2]",
+    "slot": "2",
+    "skill": "Evade Window Lv. 1",
+    "description": "Extends the invulnerability period when evading."
+  },
+  {
+    "name": "Expert Jewel II [2]",
+    "slot": "2",
+    "skill": "Critical Eye Lv. 2",
+    "description": "Increases affinity."
+  },
+  {
+    "name": "Flawless Jewel [2]",
+    "slot": "2",
+    "skill": "Peak Performance Lv. 1",
+    "description": "Increases attack when your health is full."
+  },
+  {
+    "name": "Flight Jewel [2]",
+    "slot": "2",
+    "skill": "Airborne Lv. 1",
+    "description": "Increases the damage caused by jumping attacks."
+  },
+  {
+    "name": "Focus Jewel II [2]",
+    "slot": "2",
+    "skill": "Focus Lv. 2",
+    "description": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks."
+  },
+  {
+    "name": "Frost Jewel II [2]",
+    "slot": "2",
+    "skill": "Ice Attack Lv. 2",
+    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Fungiform Jewel [2]",
+    "slot": "2",
+    "skill": "Mushroomancer Lv. 1",
+    "description": "Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effects."
+  },
+  {
+    "name": "Furor Jewel [2]",
+    "slot": "2",
+    "skill": "Resentment Lv. 1",
+    "description": "Increases attack when you have recoverable damage (the red portion of your Health Gauge)."
+  },
+  {
+    "name": "Gambit Jewel II [2]",
+    "slot": "2",
+    "skill": "Punishing Draw Lv. 2",
+    "description": "Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.)"
+  },
+  {
+    "name": "Grinder Jewel II [2]",
+    "slot": "2",
+    "skill": "Speed Sharpening Lv. 2",
+    "description": "Speeds up weapon sharpening when using a whetstone."
+  },
+  {
+    "name": "Guardian Jewel II [2]",
+    "slot": "2",
+    "skill": "Offensive Guard Lv. 2",
+    "description": "Temporarily increases attack power after executing a perfectly-timed guard."
+  },
+  {
+    "name": "Handicraft Jewel II [2]",
+    "slot": "2",
+    "skill": "Handicraft Lv. 2",
+    "description": "Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Ironwall Jewel II [2]",
+    "slot": "2",
+    "skill": "Guard Lv. 2",
+    "description": "Reduces knockbacks and stamina depletion when guarding."
+  },
+  {
+    "name": "Jumping Jewel [2]",
+    "slot": "2",
+    "skill": "Evade Extender Lv. 1",
+    "description": "Increases evade distance."
+  },
+  {
+    "name": "KO Jewel II [2]",
+    "slot": "2",
+    "skill": "Slugger Lv. 2",
+    "description": "Makes it easier to stun monsters."
+  },
+  {
+    "name": "Magazine Jewel II [2]",
+    "slot": "2",
+    "skill": "Load Shells Lv. 2",
+    "description": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity."
+  },
+  {
+    "name": "Maintenance Jewel [2]",
+    "slot": "2",
+    "skill": "Tool Specialist Lv. 1",
+    "description": "Reduces the recharge time for specialized tools."
+  },
+  {
+    "name": "Mighty Jewel [2]",
+    "slot": "2",
+    "skill": "Maximum Might Lv. 1",
+    "description": "Increases affinity if stamina is kept full for a period of time."
+  },
+  {
+    "name": "Mind's Eye Jewel II [2]",
+    "slot": "2",
+    "skill": "Mind's Eye Lv. 2",
+    "description": "Your attacks are deflected less and deal more damage to hard targets."
+  },
+  {
+    "name": "Opener Jewel II [2]",
+    "slot": "2",
+    "skill": "Opening Shot Lv. 2",
+    "description": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded."
+  },
+  {
+    "name": "Paralyzer Jewel II [2]",
+    "slot": "2",
+    "skill": "Paralysis Attack Lv. 2",
+    "description": "Increases the rate of paralysis buildup. (Paralysis buildup has a maximum limit.)"
+  },
+  {
+    "name": "Phoenix Jewel [2]",
+    "slot": "2",
+    "skill": "Coalescence Lv. 1",
+    "description": "Temporarily increases elemental attack power and status effects after recovering from blights or abnormal status."
+  },
+  {
+    "name": "Poison Jewel [2]",
+    "slot": "2",
+    "skill": "Poison Duration Up Lv. 1",
+    "description": "Extends the duration of your poison's effect on monsters."
+  },
+  {
+    "name": "Poisoncoat Jewel [2]",
+    "slot": "2",
+    "skill": "Poison Functionality Lv. 1",
+    "description": "Allows you to apply poison coatings."
+  },
+  {
+    "name": "Potential Jewel [2]",
+    "slot": "2",
+    "skill": "Heroics Lv. 1",
+    "description": "Increases attack power and defense when health drops to 35% or lower."
+  },
+  {
+    "name": "Precise Jewel II [2]",
+    "slot": "2",
+    "skill": "Ballistics Lv. 2",
+    "description": "Extends the range in which ammo and arrows have maximum power."
+  },
+  {
+    "name": "Quickswitch Jewel II [2]",
+    "slot": "2",
+    "skill": "Rapid Morph Lv. 2",
+    "description": "Increases switch speed and power for switch axes and charge blades."
+  },
+  {
+    "name": "Razor Sharp Jewel II [2]",
+    "slot": "2",
+    "skill": "Razor Sharp Lv. 2",
+    "description": "Prevents your weapon from losing sharpness."
+  },
+  {
+    "name": "Refresh Jewel [2]",
+    "slot": "2",
+    "skill": "Stamina Surge Lv. 1",
+    "description": "Speeds up stamina recovery."
+  },
+  {
+    "name": "Sharp Jewel II [2]",
+    "slot": "2",
+    "skill": "Protective Polish Lv. 2",
+    "description": "Weapon sharpness does not decrease for a set time after sharpening."
+  },
+  {
+    "name": "Shield Jewel II [2]",
+    "slot": "2",
+    "skill": "Guard Up Lv. 2",
+    "description": "Allows you to guard against ordinarily unblockable attacks."
+  },
+  {
+    "name": "Sleep Jewel II [2]",
+    "slot": "2",
+    "skill": "Sleep Attack Lv. 2",
+    "description": "Increases the rate of sleep buildup. (Sleep buildup has a maximum limit.)"
+  },
+  {
+    "name": "Sonorous Jewel [2]",
+    "slot": "2",
+    "skill": "Horn Maestro Lv. 1",
+    "description": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.)"
+  },
+  {
+    "name": "Stream Jewel II [2]",
+    "slot": "2",
+    "skill": "Water Attack Lv. 2",
+    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Trueshot Jewel II [2]",
+    "slot": "2",
+    "skill": "Special Ammo Boost Lv. 2",
+    "description": "Increases the power of the bowgun's special ammo, and the bow's Dragon Piercer, Thousand Dragons, and Tracer."
+  },
+  {
+    "name": "Venom Jewel II [2]",
+    "slot": "2",
+    "skill": "Poison Attack Lv. 2",
+    "description": "Increases the rate of poison buildup. (Poison buildup has a maximum limit.)"
+  },
+  {
+    "name": "Artillery Jewel III [3]",
+    "slot": "3",
+    "skill": "Artillery Lv. 3",
+    "description": "Strengthens explosive attacks like shells, Wyvern's Fire, charge blade phial attacks, and Sticky Ammo."
+  },
+  {
+    "name": "Attack Jewel III [3]",
+    "slot": "3",
+    "skill": "Attack Boost Lv. 3",
+    "description": "Increases attack power."
+  },
+  {
+    "name": "Bandolier Jewel III [3]",
+    "slot": "3",
+    "skill": "Tetrad Shot Lv. 3",
+    "description": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots."
+  },
+  {
+    "name": "Bandolier/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Tetrad Shot Lv. 3 & Fire Attack Lv.",
+    "description": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. & Increases fire element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Bandolier/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 1 & Tetrad Shot Lv. 3",
+    "description": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. & Increases thunder element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Bandolier/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Tetrad Shot Lv. 3 & Dragon Attack Lv. 1",
+    "description": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. & Increases dragon element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Bandolier/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Tetrad Shot Lv. 3 & Ice Attack Lv. 1",
+    "description": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. & Increases ice element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Bandolier/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Tetrad Shot Lv. 3 & Guard Lv. 1",
+    "description": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. & Reduces knockbacks and stamina depletion when guarding."
+  },
+  {
+    "name": "Bandolier/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Ballistics Lv. 1 & Tetrad Shot Lv. 3",
+    "description": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. & Extends the range in which ammo and arrows have maximum power"
+  },
+  {
+    "name": "Bandolier/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 1 & Tetrad Shot Lv. 3",
+    "description": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. & Increases water element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Blast Jewel III [3]",
+    "slot": "3",
+    "skill": "Blast Attack Lv. 3",
+    "description": "Increases the rate of blast buildup. (Blast buildup has a maximum limit.)"
+  },
+  {
+    "name": "Blaze Jewel III [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3",
+    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Blaze/Bandolier Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Tetrad Shot Lv. 1",
+    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots."
+  },
+  {
+    "name": "Blaze/Crit Elem Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Critical Element Lv. 1",
+    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits."
+  },
+  {
+    "name": "Blaze/Enhancer Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Power Prolonger Lv. 1",
+    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer."
+  },
+  {
+    "name": "Blaze/Focus Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Focus Lv. 1",
+    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks."
+  },
+  {
+    "name": "Blaze/Guardian Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Offensive Guard Lv. 1",
+    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Temporarily increases attack power after executing a perfectly-timed guard."
+  },
+  {
+    "name": "Blaze/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Handicraft Lv. 1",
+    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Blaze/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Guard Lv. 1",
+    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Reduces knockbacks and stamina depletion when guarding."
+  },
+  {
+    "name": "Blaze/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Slugger Lv. 1",
+    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Makes it easier to stun monsters."
+  },
+  {
+    "name": "Blaze/Opener Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Opening Shot Lv. 1",
+    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Increases the bowgun's reload speed and increases the power of bullets when fully loaded."
+  },
+  {
+    "name": "Blaze/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Ballistics Lv. 1",
+    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Extends the range in which ammo and arrows have maximum power."
+  },
+  {
+    "name": "Blaze/Quickswitch Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Rapid Morph Lv. 1",
+    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Increases switch speed and power for switch axes and charge blades."
+  },
+  {
+    "name": "Blaze/Rzr Sharp Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Razor Sharp Lv. 1",
+    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Prevents your weapon from losing sharpness."
+  },
+  {
+    "name": "Blaze/Shield Jewel [3]",
+    "slot": "3",
+    "skill": "Fire Attack Lv. 3 & Guard Up Lv. 1",
+    "description": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Allows you to guard against ordinarily unblockable attacks."
+  },
+  {
+    "name": "Blunt Jewel III [3]",
+    "slot": "3",
+    "skill": "Bludgeoner Lv. 3",
+    "description": "Increases attack power when your weapon sharpness is low."
+  },
+  {
+    "name": "Bolt Jewel III [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3",
+    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Bolt/Bandolier Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Tetrad Shot Lv. 1",
+    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots."
+  },
+  {
+    "name": "Bolt/Crit Elem Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Critical Element Lv. 1",
+    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits."
+  },
+  {
+    "name": "Bolt/Enhancer Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Power Prolonger Lv. 1",
+    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer."
+  },
+  {
+    "name": "Bolt/Focus Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Focus Lv. 1",
+    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks."
+  },
+  {
+    "name": "Bolt/Guardian Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Offensive Guard Lv. 1",
+    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Temporarily increases attack power after executing a perfectly-timed guard."
+  },
+  {
+    "name": "Bolt/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Handicraft Lv. 1",
+    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Bolt/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Guard Lv. 1",
+    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Reduces knockbacks and stamina depletion when guarding."
+  },
+  {
+    "name": "Bolt/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Slugger Lv. 1",
+    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Makes it easier to stun monsters."
+  },
+  {
+    "name": "Bolt/Opener Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Opening Shot Lv. 1",
+    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Increases the bowgun's reload speed and increases the power of bullets when fully loaded."
+  },
+  {
+    "name": "Bolt/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Ballistics Lv. 1",
+    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Extends the range in which ammo and arrows have maximum power."
+  },
+  {
+    "name": "Bolt/Quickswitch Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Rapid Morph Lv. 1",
+    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Increases switch speed and power for switch axes and charge blades."
+  },
+  {
+    "name": "Bolt/Rzr Sharp Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Razor Sharp Lv. 1",
+    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Prevents your weapon from losing sharpness."
+  },
+  {
+    "name": "Bolt/Shield Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 3 & Guard Up Lv. 1",
+    "description": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Allows you to guard against ordinarily unblockable attacks."
+  },
+  {
+    "name": "Chain Jewel [3]",
+    "slot": "3",
+    "skill": "Burst Lv. 1",
+    "description": "Continuously landing hits gradually increases attack and elemental attack. (Amount increased depends on weapon.)"
+  },
+  {
+    "name": "Challenger Jewel [3]",
+    "slot": "3",
+    "skill": "Agitator Lv. 1",
+    "description": "Increases attack power and affinity when large monsters become enraged."
+  },
+  {
+    "name": "Charge Jewel III [3]",
+    "slot": "3",
+    "skill": "Charge Master Lv. 3",
+    "description": "Increases element power and status buildup for charged attacks."
+  },
+  {
+    "name": "Charge Up/Attack Jewel [3]",
+    "slot": "3",
+    "skill": "Charge Up Lv. 1 & Attack Boost Lv. 1",
+    "description": "Increases your power to induce stun when you hit a monster with a hammer's charged attack. & Increases attack power."
+  },
+  {
+    "name": "Charge Up/Draw Jewel [3]",
+    "slot": "3",
+    "skill": "Charge Up Lv. 1 & Critical Draw Lv. 1",
+    "description": "Increases your power to induce stun when you hit a monster with a hammer's charged attack. & Increases affinity when performing draw attacks. (Not effective while riding.)"
+  },
+  {
+    "name": "Charge Up/Expert Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Eye Lv. 1 & Charge Up Lv. 1",
+    "description": "Increases your power to induce stun when you hit a monster with a hammer's charged attack. & Increases affinity."
+  },
+  {
+    "name": "Charge Up/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Charge Up Lv. 1",
+    "description": "Increases your power to induce stun when you hit a monster with a hammer's charged attack. & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum"
+  },
+  {
+    "name": "Charge Up/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Charge Up Lv. 1 & Slugger Lv. 1",
+    "description": "Increases your power to induce stun when you hit a monster with a hammer's charged attack. & Makes it easier to stun monsters."
+  },
+  {
+    "name": "Charge/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Charge Master Lv. 3 & Handicraft Lv. 1",
+    "description": "Increases element power and status buildup for charged attacks. & However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Charge/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Charge Master Lv. 3 & Slugger Lv. 1",
+    "description": "Increases element power and status buildup for charged attacks. & Makes it easier to stun monsters."
+  },
+  {
+    "name": "Counterattack Jewel [3]",
+    "slot": "3",
+    "skill": "Adrenaline Rush Lv. 1",
+    "description": "Temporarily increases attack power after executing a perfectly-timed evade just as a monster attacks."
+  },
+  {
+    "name": "Crit Elem Jewel III [3]",
+    "slot": "3",
+    "skill": "Critical Element Lv. 3",
+    "description": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits."
+  },
+  {
+    "name": "Crit Elem/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Element Lv. 3 & Fire Attack Lv. 1",
+    "description": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. & Increases fire element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Crit Elem/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Element Lv. 3 & Thunder Attack Lv. 1",
+    "description": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. & Increases thunder element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Crit Elem/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Element Lv. 3 & Dragon Attack Lv. 1",
+    "description": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. & Increases dragon element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Crit Elem/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Element Lv. 3 & Ice Attack Lv. 1",
+    "description": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. & Increases ice element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Crit Elem/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Element Lv. 3 & Handicraft Lv. 1",
+    "description": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. & However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Crit Elem/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Lv. 1 & Critical Element Lv. 3",
+    "description": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. & Reduces knockbacks and stamina depletion when guarding."
+  },
+  {
+    "name": "Crit Elem/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Element Lv. 3 & Slugger Lv. 1",
+    "description": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. & Makes it easier to stun monsters."
+  },
+  {
+    "name": "Crit Elem/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Element Lv. 3 & Water Attack Lv. 1",
+    "description": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. & Increases water element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Crit Element/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Ballistics Lv. 1 & Critical Element Lv. 3",
+    "description": "N/A"
+  },
+  {
+    "name": "Crit Stat Jewel III [3]",
+    "slot": "3",
+    "skill": "Critical Status Lv. 3",
+    "description": "N/A"
+  },
+  {
+    "name": "Crit Stat/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Status Lv. 3 & Handicraft Lv. 1",
+    "description": "Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits. & However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Crit Stat/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Status Lv. 3 & Guard Lv. 1",
+    "description": "Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits. & Reduces knockbacks and stamina depletion when guarding."
+  },
+  {
+    "name": "Crit Stat/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Status Lv. 3 & Ballistics Lv. 1",
+    "description": "Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits. & Extends the range in which ammo and arrows have maximum power."
+  },
+  {
+    "name": "Crit Status/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Status Lv. 3 & Slugger Lv. 1",
+    "description": "N/A"
+  },
+  {
+    "name": "Critical Jewel III [3]",
+    "slot": "3",
+    "skill": "Critical Boost Lv. 3",
+    "description": "Increases the damage of critical hits."
+  },
+  {
+    "name": "Dragon Jewel III [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3",
+    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Dragon/Bandolier Jewel [3]",
+    "slot": "3",
+    "skill": "Tetrad Shot Lv. 1 & Dragon Attack Lv. 3 & Dragon Attack Lv. 3",
+    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots."
+  },
+  {
+    "name": "Dragon/Crit Elem Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Critical Element Lv. 1",
+    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits."
+  },
+  {
+    "name": "Dragon/Enhancer Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Power Prolonger Lv. 1",
+    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer."
+  },
+  {
+    "name": "Dragon/Focus Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Focus Lv. 1",
+    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks."
+  },
+  {
+    "name": "Dragon/Guardian Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Offensive Guard Lv. 1",
+    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Temporarily increases attack power after executing a perfectly-timed guard."
+  },
+  {
+    "name": "Dragon/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Handicraft Lv. 1",
+    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Dragon/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Guard Lv. 1",
+    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Reduces knockbacks and stamina depletion when guarding."
+  },
+  {
+    "name": "Dragon/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Slugger Lv. 1",
+    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Makes it easier to stun monsters."
+  },
+  {
+    "name": "Dragon/Opener Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Opening Shot Lv. 1",
+    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Increases the bowgun's reload speed and increases the power of bullets when fully loaded."
+  },
+  {
+    "name": "Dragon/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Ballistics Lv. 1",
+    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Extends the range in which ammo and arrows have maximum power."
+  },
+  {
+    "name": "Dragon/Quickswitch Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Rapid Morph Lv. 1",
+    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Increases switch speed and power for switch axes and charge blades."
+  },
+  {
+    "name": "Dragon/Rzr Sharp Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Razor Sharp Lv. 1",
+    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Prevents your weapon from losing sharpness."
+  },
+  {
+    "name": "Dragon/Shield Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 3 & Guard Up Lv. 1",
+    "description": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Allows you to guard against ordinarily unblockable attacks."
+  },
+  {
+    "name": "Drain Jewel III [3]",
+    "slot": "3",
+    "skill": "Stamina Thief Lv. 3",
+    "description": "Increases certain attacks' ability to exhaust monsters."
+  },
+  {
+    "name": "Draw Jewel III [3]",
+    "slot": "3",
+    "skill": "Critical Draw Lv. 3",
+    "description": "Increases affinity when performing draw attacks. (Not effective while riding.)"
+  },
+  {
+    "name": "Enhancer Jewel III [3]",
+    "slot": "3",
+    "skill": "Power Prolonger Lv. 3",
+    "description": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer."
+  },
+  {
+    "name": "Enhancer/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Power Prolonger Lv. 3 & Fire Attack Lv. 1",
+    "description": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. & Increases fire element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Enhancer/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 1 & Power Prolonger Lv. 3",
+    "description": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. & Increases thunder element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Enhancer/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Power Prolonger Lv. 3 & Dragon Attack Lv. 1",
+    "description": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. & Increases dragon element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Enhancer/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Power Prolonger Lv. 3 & Ice Attack Lv. 1",
+    "description": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. & Increases ice element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Enhancer/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Power Prolonger Lv. 3",
+    "description": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. & However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Enhancer/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 1 & Power Prolonger Lv. 3",
+    "description": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. & Increases water element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Expert Jewel III [3]",
+    "slot": "3",
+    "skill": "Critical Eye Lv. 3",
+    "description": "Increases affinity."
+  },
+  {
+    "name": "Flayer Jewel [3]",
+    "slot": "3",
+    "skill": "Flayer Lv. 1",
+    "description": "Makes it easier to inflict wounds. Upon inflicting enough damage, also deals additional non-elemental damage."
+  },
+  {
+    "name": "Flight/Attack Jewel [3]",
+    "slot": "3",
+    "skill": "Airborne Lv. 1 & Attack Boost Lv. 1",
+    "description": "Increases the damage caused by jumping attacks. & Increases attack power."
+  },
+  {
+    "name": "Flight/Draw Jewel [3]",
+    "slot": "3",
+    "skill": "Airborne Lv. 1 & Critical Draw Lv. 1",
+    "description": "Increases the damage caused by jumping attacks. & Increases affinity when performing draw attacks. (Not effective while riding.)"
+  },
+  {
+    "name": "Flight/Expert Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Eye Lv. 1 & Airborne Lv. 1",
+    "description": "Increases the damage caused by jumping attacks. & Increases affinity."
+  },
+  {
+    "name": "Flight/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Airborne Lv. 1",
+    "description": "Increases the damage caused by jumping attacks. & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Focus Jewel III [3]",
+    "slot": "3",
+    "skill": "Focus Lv. 3",
+    "description": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks."
+  },
+  {
+    "name": "Focus/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Focus Lv. 3 & Fire Attack Lv. 1",
+    "description": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. & Increases fire element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Focus/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 1 & Focus Lv. 3",
+    "description": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. & Increases thunder element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Focus/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Focus Lv. 3 & Dragon Attack Lv. 1",
+    "description": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. & Increases dragon element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Focus/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Focus Lv. 3 & Ice Attack Lv. 1",
+    "description": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. & Increases ice element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Focus/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Focus Lv. 3",
+    "description": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. & However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Focus/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Slugger Lv. 1 & Focus Lv. 3",
+    "description": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. & Makes it easier to stun monsters."
+  },
+  {
+    "name": "Focus/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Focus Lv. 3 & Ballistics Lv. 1",
+    "description": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. & Extends the range in which ammo and arrows have maximum power."
+  },
+  {
+    "name": "Focus/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 1 & Focus Lv. 3",
+    "description": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. & Increases water element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Foray Jewel [3]",
+    "slot": "3",
+    "skill": "Foray Lv. 1",
+    "description": "Increases attack power and affinity against large monsters affected by poison or paralysis."
+  },
+  {
+    "name": "Forceshot Jewel [3]",
+    "slot": "3",
+    "skill": "Normal Shots Lv. 1",
+    "description": "Increases the attack power of Normal Ammo, normal arrows, and Flying Swallow Shot."
+  },
+  {
+    "name": "Frost Jewel III [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3",
+    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Frost/Bandolier Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Tetrad Shot Lv. 1",
+    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots."
+  },
+  {
+    "name": "Frost/Crit Elem Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Critical Element Lv. 1",
+    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits."
+  },
+  {
+    "name": "Frost/Enhancer Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Power Prolonger Lv. 1",
+    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer."
+  },
+  {
+    "name": "Frost/Focus Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Focus Lv. 1",
+    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks."
+  },
+  {
+    "name": "Frost/Guardian Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Offensive Guard Lv. 1",
+    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Temporarily increases attack power after executing a perfectly-timed guard."
+  },
+  {
+    "name": "Frost/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Handicraft Lv. 1",
+    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Frost/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Guard Lv. 1",
+    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Reduces knockbacks and stamina depletion when guarding."
+  },
+  {
+    "name": "Frost/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Slugger Lv. 1",
+    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Makes it easier to stun monsters."
+  },
+  {
+    "name": "Frost/Opener Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Opening Shot Lv. 1",
+    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Increases the bowgun's reload speed and increases the power of bullets when fully loaded."
+  },
+  {
+    "name": "Frost/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Ballistics Lv. 1",
+    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Extends the range in which ammo and arrows have maximum power."
+  },
+  {
+    "name": "Frost/Quickswitch Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Rapid Morph Lv. 1",
+    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Increases switch speed and power for switch axes and charge blades."
+  },
+  {
+    "name": "Frost/Rzr Sharp Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 3 & Razor Sharp Lv. 1",
+    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Prevents your weapon from losing sharpness."
+  },
+  {
+    "name": "Frost/Shield Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Up Lv. 1 & Ice Attack Lv. 3",
+    "description": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Allows you to guard against ordinarily unblockable attacks."
+  },
+  {
+    "name": "Gambit Jewel III [3]",
+    "slot": "3",
+    "skill": "Punishing Draw Lv. 3",
+    "description": "Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.)"
+  },
+  {
+    "name": "Gambit/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Punishing Draw Lv. 3 & Punishing Draw Lv. 3",
+    "description": "Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.) & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Gambit/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Punishing Draw Lv. 3 & Guard Lv. 1",
+    "description": "Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.) & Reduces knockbacks and stamina depletion when guarding."
+  },
+  {
+    "name": "Gambit/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Punishing Draw Lv. 3 & Slugger Lv. 1",
+    "description": "Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.) & Makes it easier to stun monsters."
+  },
+  {
+    "name": "Grinder/Attack Jewel [3]",
+    "slot": "3",
+    "skill": "Speed Sharpening Lv. 2 & Attack Boost Lv. 1",
+    "description": "Speeds up weapon sharpening when using a whetstone. & Increases attack power."
+  },
+  {
+    "name": "Grinder/Draw Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Draw Lv. 1 & Speed Sharpening Lv. 2",
+    "description": "Speeds up weapon sharpening when using a whetstone. & Increases affinity when performing draw attacks. (Not effective while riding.)"
+  },
+  {
+    "name": "Grinder/Expert Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Eye Lv. 1 & Speed Sharpening Lv. 2",
+    "description": "Speeds up weapon sharpening when using a whetstone. & Increases affinity."
+  },
+  {
+    "name": "Grinder/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Speed Sharpening Lv. 2 & Handicraft Lv. 1",
+    "description": "Speeds up weapon sharpening when using a whetstone. & However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Grinder/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Speed Sharpening Lv. 2 & Guard Lv. 1",
+    "description": "Speeds up weapon sharpening when using a whetstone. & Reduces knockbacks and stamina depletion when guarding."
+  },
+  {
+    "name": "Grinder/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Speed Sharpening Lv. 2 & Slugger Lv. 1",
+    "description": "Speeds up weapon sharpening when using a whetstone. & Makes it easier to stun monsters."
+  },
+  {
+    "name": "Guardian Jewel III [3]",
+    "slot": "3",
+    "skill": "Offensive Guard Lv. 3",
+    "description": "Temporarily increases attack power after executing a perfectly-timed guard."
+  },
+  {
+    "name": "Guardian/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Offensive Guard Lv. 3 & Fire Attack Lv. 1",
+    "description": "Temporarily increases attack power after executing a perfectly-timed guard. & Increases fire element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Guardian/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Offensive Guard Lv. 3 & Thunder Attack Lv. 1",
+    "description": "Temporarily increases attack power after executing a perfectly-timed guard. & Increases thunder element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Guardian/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Offensive Guard Lv. 3 & Dragon Attack Lv. 1",
+    "description": "Temporarily increases attack power after executing a perfectly-timed guard. & Increases dragon element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Guardian/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Offensive Guard Lv. 3 & Ice Attack Lv. 1",
+    "description": "Temporarily increases attack power after executing a perfectly-timed guard. & Increases ice element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Guardian/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Offensive Guard Lv. 3 & Handicraft Lv. 1",
+    "description": "Temporarily increases attack power after executing a perfectly-timed guard. & However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Guardian/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Offensive Guard Lv. 3 & Guard Lv. 1",
+    "description": "Temporarily increases attack power after executing a perfectly-timed guard. & Reduces knockbacks and stamina depletion when guarding."
+  },
+  {
+    "name": "Guardian/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Offensive Guard Lv. 3 & Water Attack Lv. 1",
+    "description": "Temporarily increases attack power after executing a perfectly-timed guard. & Increases water element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Handicraft Jewel III [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 3",
+    "description": "Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Ironwall Jewel III [3]",
+    "slot": "3",
+    "skill": "Guard Lv. 3",
+    "description": "Reduces knockbacks and stamina depletion when guarding."
+  },
+  {
+    "name": "KO Jewel III [3]",
+    "slot": "3",
+    "skill": "Slugger Lv. 3",
+    "description": "Makes it easier to stun monsters."
+  },
+  {
+    "name": "Magazine/Attack Jewel [3]",
+    "slot": "3",
+    "skill": "Load Shells Lv. 2 & Attack Boost Lv. 1",
+    "description": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity. & Increases attack power."
+  },
+  {
+    "name": "Magazine/Draw Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Draw Lv. 1 & Load Shells Lv. 2",
+    "description": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity. & Increases affinity when performing draw attacks. (Not effective while riding.)"
+  },
+  {
+    "name": "Magazine/Expert Jewel [3]",
+    "slot": "3",
+    "skill": "Load Shells Lv. 2 & Critical Eye Lv. 1",
+    "description": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity. & Increases affinity."
+  },
+  {
+    "name": "Magazine/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Load Shells Lv. 2 & Handicraft Lv. 1",
+    "description": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity. & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Magazine/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Lv. 1 & Load Shells Lv. 2",
+    "description": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity. & Reduces knockbacks and stamina depletion when guarding"
+  },
+  {
+    "name": "Mastery Jewel [3]",
+    "slot": "3",
+    "skill": "Master's Touch Lv. 1",
+    "description": "Prevents your weapon from losing sharpness during critical hits."
+  },
+  {
+    "name": "Mind's Eye Jewel III [3]",
+    "slot": "3",
+    "skill": "Mind's Eye Lv. 3",
+    "description": "Your attacks are deflected less and deal more damage to hard targets."
+  },
+  {
+    "name": "Opener Jewel III [3]",
+    "slot": "3",
+    "skill": "Opening Shot Lv. 3",
+    "description": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded."
+  },
+  {
+    "name": "Opener/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Opening Shot Lv. 3 & Fire Attack Lv. 1",
+    "description": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. & Increases fire element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Opener/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 1 & Opening Shot Lv. 3",
+    "description": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. & Increases thunder element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Opener/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Opening Shot Lv. 3 & Dragon Attack Lv. 1",
+    "description": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. & Increases dragon element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Opener/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Opening Shot Lv. 3 & Ice Attack Lv. 1",
+    "description": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. & Increases ice element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Opener/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Opening Shot Lv. 3 & Guard Lv. 1",
+    "description": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. & Reduces knockbacks and stamina depletion when guarding."
+  },
+  {
+    "name": "Opener/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Ballistics Lv. 1 & Opening Shot Lv. 3",
+    "description": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. & Extends the range in which ammo and arrows have maximum power."
+  },
+  {
+    "name": "Opener/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 1 & Opening Shot Lv. 3",
+    "description": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. & Increases water element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Paracoat Jewel [3]",
+    "slot": "3",
+    "skill": "Para Functionality Lv. 1",
+    "description": "Allows you to apply paralysis coatings."
+  },
+  {
+    "name": "Paralyzer Jewel III [3]",
+    "slot": "3",
+    "skill": "Paralysis Attack Lv. 3",
+    "description": "Increases the rate of paralysis buildup. (Paralysis buildup has a maximum limit.)"
+  },
+  {
+    "name": "Pierce Jewel [3]",
+    "slot": "3",
+    "skill": "Piercing Shots Lv. 1",
+    "description": "Increases the attack of the bowgun's Pierce Ammo, and the bow's Dragon Piercer and Thousand Dragons."
+  },
+  {
+    "name": "Poison/Attack Jewel [3]",
+    "slot": "3",
+    "skill": "Poison Duration Up Lv. 1 & Attack Boost Lv. 1",
+    "description": "Extends the duration of your poison's effect on monsters. & Increases attack power."
+  },
+  {
+    "name": "Poison/Draw Jewel [3]",
+    "slot": "3",
+    "skill": "Poison Duration Up Lv. 1 & Critical Draw Lv. 1",
+    "description": "Extends the duration of your poison's effect on monsters. & Increases affinity when performing draw attacks. (Not effective while riding.)"
+  },
+  {
+    "name": "Poison/Expert Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Eye Lv. 1 & Poison Duration Up Lv. 1",
+    "description": "Extends the duration of your poison's effect on monsters. & Increases affinity."
+  },
+  {
+    "name": "Poison/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Poison Duration Up Lv. 1",
+    "description": "Extends the duration of your poison's effect on monsters. & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Poison/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Poison Duration Up Lv. 1 & Guard Lv. 1",
+    "description": "Extends the duration of your poison's effect on monsters. & Reduces knockbacks and stamina depletion when guarding"
+  },
+  {
+    "name": "Poison/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Slugger Lv. 1 & Poison Duration Up Lv. 1",
+    "description": "Extends the duration of your poison's effect on monsters. & Makes it easier to stun monsters."
+  },
+  {
+    "name": "Poison/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Poison Duration Up Lv. 1 & Ballistics Lv. 1",
+    "description": "Extends the duration of your poison's effect on monsters. & Extends the range in which ammo and arrows have maximum power."
+  },
+  {
+    "name": "Precise Jewel III [3]",
+    "slot": "3",
+    "skill": "Ballistics Lv. 3",
+    "description": "Extends the range in which ammo and arrows have maximum power."
+  },
+  {
+    "name": "Quickswitch Jewel III [3]",
+    "slot": "3",
+    "skill": "Rapid Morph Lv.",
+    "description": "Increases switch speed and power for switch axes and charge blades."
+  },
+  {
+    "name": "Quickswitch/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Rapid Morph Lv. 3 & Fire Attack Lv. 1",
+    "description": "Increases switch speed and power for switch axes and charge blades. & Increases fire element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Quickswitch/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 1 & Rapid Morph Lv. 3",
+    "description": "Increases switch speed and power for switch axes and charge blades. & Increases thunder element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Quickswitch/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Rapid Morph Lv. 3 & Dragon Attack Lv. 1",
+    "description": "Increases switch speed and power for switch axes and charge blades. & Increases dragon element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Quickswitch/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Rapid Morph Lv. 3 & Ice Attack Lv. 1",
+    "description": "Increases switch speed and power for switch axes and charge blades. & Increases ice element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Quickswitch/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Rapid Morph Lv. 3",
+    "description": "Increases switch speed and power for switch axes and charge blades. & However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Quickswitch/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Lv. 1 & Rapid Morph Lv. 3",
+    "description": "Increases switch speed and power for switch axes and charge blades. & Reduces knockbacks and stamina depletion when guarding."
+  },
+  {
+    "name": "Quickswitch/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Rapid Morph Lv. 3 & Slugger Lv. 1",
+    "description": "Increases switch speed and power for switch axes and charge blades. & Makes it easier to stun monsters."
+  },
+  {
+    "name": "Quickswitch/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 1 & Rapid Morph Lv. 3",
+    "description": "Increases switch speed and power for switch axes and charge blades. & Increases water element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Razor Sharp/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Slugger Lv. 1 & Razor Sharp Lv. 3",
+    "description": "Prevents your weapon from losing sharpness. & Makes it easier to stun monsters."
+  },
+  {
+    "name": "Rzr Sharp Jewel III [3]",
+    "slot": "3",
+    "skill": "Razor Sharp Lv. 3",
+    "description": "N/A"
+  },
+  {
+    "name": "Rzr Sharp/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Razor Sharp Lv. 3 & Fire Attack Lv. 1",
+    "description": "N/A"
+  },
+  {
+    "name": "Rzr Sharp/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Razor Sharp Lv. 3 & Thunder Attack Lv. 1",
+    "description": "N/A"
+  },
+  {
+    "name": "Rzr Sharp/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Dragon Attack Lv. 1 & Razor Sharp Lv. 3",
+    "description": "N/A"
+  },
+  {
+    "name": "Rzr Sharp/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Ice Attack Lv. 1 & Razor Sharp Lv. 3",
+    "description": "N/A"
+  },
+  {
+    "name": "Rzr Sharp/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Razor Sharp Lv. 3 & Handicraft Lv. 1",
+    "description": "N/A"
+  },
+  {
+    "name": "Rzr Sharp/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Razor Sharp Lv. 3 & Guard Lv. 1",
+    "description": "N/A"
+  },
+  {
+    "name": "Rzr Sharp/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Razor Sharp Lv. 3 & Water Attack Lv. 1",
+    "description": "N/A"
+  },
+  {
+    "name": "Salvo Jewel [3]",
+    "slot": "3",
+    "skill": "Rapid Fire Up Lv. 1",
+    "description": "Improves light bowgun rapid fire."
+  },
+  {
+    "name": "Sharp Jewel III [3]",
+    "slot": "3",
+    "skill": "Protective Polish Lv. 3",
+    "description": "Weapon sharpness does not decrease for a set time after sharpening."
+  },
+  {
+    "name": "Shield Jewel III [3]",
+    "slot": "3",
+    "skill": "Guard Up Lv. 3",
+    "description": "Allows you to guard against ordinarily unblockable attacks."
+  },
+  {
+    "name": "Shield/Blaze Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Up Lv. 3 & Fire Attack Lv. 1",
+    "description": "Allows you to guard against ordinarily unblockable attacks. & Increases fire element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Shield/Bolt Jewel [3]",
+    "slot": "3",
+    "skill": "Thunder Attack Lv. 1 & Guard Up Lv. 3",
+    "description": "Allows you to guard against ordinarily unblockable attacks. & Increases thunder element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Shield/Dragon Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Up Lv. 3 & Dragon Attack Lv. 1",
+    "description": "Allows you to guard against ordinarily unblockable attacks. & Increases dragon element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Shield/Frost Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Up Lv. 3 & Ice Attack Lv. 1",
+    "description": "Allows you to guard against ordinarily unblockable attacks. & Increases ice element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Shield/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Guard Up Lv. 3",
+    "description": "Allows you to guard against ordinarily unblockable attacks. & However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Shield/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Up Lv. 3 & Guard Lv. 1",
+    "description": "Allows you to guard against ordinarily unblockable attacks. & Reduces knockbacks and stamina depletion when guarding."
+  },
+  {
+    "name": "Shield/Stream Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 1 & Guard Up Lv. 3",
+    "description": "Allows you to guard against ordinarily unblockable attacks. & Increases water element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Sleep Jewel III [3]",
+    "slot": "3",
+    "skill": "Sleep Attack Lv. 3",
+    "description": "Increases the rate of sleep buildup. (Sleep buildup has a maximum limit.)"
+  },
+  {
+    "name": "Sleepcoat Jewel [3]",
+    "slot": "3",
+    "skill": "Sleep Functionality Lv. 1",
+    "description": "Allows you to apply sleep coatings."
+  },
+  {
+    "name": "Sonorous/Attack Jewel [3]",
+    "slot": "3",
+    "skill": "Horn Maestro Lv. 2 & Attack Boost Lv. 1",
+    "description": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.) & Increases attack power."
+  },
+  {
+    "name": "Sonorous/Draw Jewel [3]",
+    "slot": "3",
+    "skill": "Horn Maestro Lv. 2 & Critical Draw Lv. 1",
+    "description": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.) & Increases affinity when performing draw attacks. (Not effective while riding.)"
+  },
+  {
+    "name": "Sonorous/Expert Jewel [3]",
+    "slot": "3",
+    "skill": "Critical Eye Lv. 1 & Horn Maestro Lv. 2",
+    "description": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.) & Increases affinity."
+  },
+  {
+    "name": "Sonorous/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Handicraft Lv. 1 & Horn Maestro Lv. 2",
+    "description": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.) & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Sonorous/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Horn Maestro Lv. 2 & Slugger Lv. 1",
+    "description": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.) & Makes it easier to stun monsters."
+  },
+  {
+    "name": "Spread Jewel [3]",
+    "slot": "3",
+    "skill": "Spread/Power Shots Lv. 1",
+    "description": "Increases the attack of the bowgun's Spread Ammo and the bow's Power Shots and Quick Shots."
+  },
+  {
+    "name": "Stream Jewel III [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3",
+    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.)"
+  },
+  {
+    "name": "Stream/Bandolier Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Tetrad Shot Lv. 1",
+    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots."
+  },
+  {
+    "name": "Stream/Crit Elem Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Critical Element Lv. 1",
+    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits."
+  },
+  {
+    "name": "Stream/Enhancer Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Power Prolonger Lv. 1",
+    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer."
+  },
+  {
+    "name": "Stream/Focus Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Focus Lv. 1",
+    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks."
+  },
+  {
+    "name": "Stream/Guardian Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Guard Up Lv. 1",
+    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Temporarily increases attack power after executing a perfectly-timed guard."
+  },
+  {
+    "name": "Stream/Handicraft Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Handicraft Lv. 1",
+    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum."
+  },
+  {
+    "name": "Stream/Ironwall Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Guard Lv. 1",
+    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Reduces knockbacks and stamina depletion when guarding."
+  },
+  {
+    "name": "Stream/KO Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Slugger Lv. 1",
+    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Makes it easier to stun monsters."
+  },
+  {
+    "name": "Stream/Opener Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Opening Shot Lv. 1",
+    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Increases the bowgun's reload speed and increases the power of bullets when fully loaded."
+  },
+  {
+    "name": "Stream/Precise Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Ballistics Lv. 1",
+    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Extends the range in which ammo and arrows have maximum power."
+  },
+  {
+    "name": "Stream/Quickswitch Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Rapid Morph Lv. 1",
+    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Increases switch speed and power for switch axes and charge blades."
+  },
+  {
+    "name": "Stream/Rzr Sharp Jewel [3]",
+    "slot": "3",
+    "skill": "Water Attack Lv. 3 & Razor Sharp Lv. 1",
+    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Prevents your weapon from losing sharpness."
+  },
+  {
+    "name": "Stream/Shield Jewel [3]",
+    "slot": "3",
+    "skill": "Guard Up Lv. 1 & Water Attack Lv. 3",
+    "description": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Allows you to guard against ordinarily unblockable attacks."
+  },
+  {
+    "name": "Tenderizer Jewel [3]",
+    "slot": "3",
+    "skill": "Weakness Exploit Lv. 1",
+    "description": "Increases the affinity of attacks that exploit a monster's weak points and wounds."
+  },
+  {
+    "name": "Throttle Jewel [3]",
+    "slot": "3",
+    "skill": "Latent Power Lv. 1",
+    "description": "Temporarily increases affinity and reduces stamina depletion when certain conditions are met."
+  },
+  {
+    "name": "Venom Jewel III [3]",
+    "slot": "3",
+    "skill": "Poison Attack Lv. 3",
+    "description": "Increases the rate of poison buildup. (Poison buildup has a maximum limit.)"
+  }
+]
