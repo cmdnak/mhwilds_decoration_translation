@@ -1,0 +1,1162 @@
+[
+  {
+    "english": "Increases your power to induce stun when you hit a monster with a hammer's charged attack. & Makes it easier to stun monsters.",
+    "french": "Augmente l'attaque."
+  },
+  {
+    "english": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.",
+    "french": "Augmente l'attaque lorsque vous avez subi des dégâts temporaires (zone rouge de la jauge de vie)."
+  },
+  {
+    "english": "Increases meat-eating and item-consumption speed.",
+    "french": "Esquivez juste avant une attaque pour un bonus d'attaque temporaire."
+  },
+  {
+    "english": "Increases the rate of paralysis buildup. (Paralysis buildup has a maximum limit.)",
+    "french": "Accroît temporairement la puissance d'attaque après une garde parfaitement synchronisée."
+  },
+  {
+    "english": "Weapon sharpness does not decrease for a set time after sharpening.",
+    "french": "Accroît temporairement la puissance d'attaque après une garde parfaitement synchronisée. & Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases the rate of sleep buildup. (Sleep buildup has a maximum limit.)",
+    "french": "Accroît temporairement la puissance d'attaque après une garde parfaitement synchronisée. & Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations."
+  },
+  {
+    "english": NaN,
+    "french": "Accroît temporairement la puissance d'attaque après une garde parfaitement synchronisée. & Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases your power to induce stun when you hit a monster with a hammer's charged attack. & Increases affinity when performing draw attacks. (Not effective while riding.)",
+    "french": "Accroît temporairement la puissance d'attaque après une garde parfaitement synchronisée. & Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+    "french": "Accroît temporairement la puissance d'attaque après une garde parfaitement synchronisée. & Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Allows you to apply paralysis coatings.",
+    "french": "Accroît temporairement la puissance d'attaque après une garde parfaitement synchronisée. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Reduces knockbacks and stamina depletion when guarding.",
+    "french": "Accroît temporairement la puissance d'attaque après une garde parfaitement synchronisée. & Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": "Speeds up weapon sharpening when using a whetstone. & Makes it easier to stun monsters.",
+    "french": "Augmente l'attaque quand votre vie est à son maximum."
+  },
+  {
+    "english": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.",
+    "french": "Accroît temporairement la puissance d'attaque après avoir été projeté."
+  },
+  {
+    "english": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Reduces knockbacks and stamina depletion when guarding.",
+    "french": "Augmente l'affinité."
+  },
+  {
+    "english": "Increases element power and status buildup for charged attacks. & Makes it easier to stun monsters.",
+    "french": "Augmente les dégâts des coups critiques."
+  },
+  {
+    "english": "Grants protection against environmental damage, such as from heat or cold.",
+    "french": "Augmente l'affinité lorsque vous attaquez le point faible d'un monstre et ses blessures."
+  },
+  {
+    "english": "Increases the amount recovered when restoring health.",
+    "french": "Augmente l'affinité lorsque vous exécutez des attaques dégainées (sans effet en chevauchant)."
+  },
+  {
+    "english": "Makes it easier to inflict wounds. Upon inflicting enough damage, also deals additional non-elemental damage.",
+    "french": "Augmente l'affinité si l'endurance est à son maximum pendant un certain temps."
+  },
+  {
+    "english": "Grants protection against wind pressure.",
+    "french": "Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Temporarily increases damage to large monsters with a successful Sneak Attack.",
+    "french": "Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations. & Accroît temporairement la puissance d'attaque après une garde parfaitement synchronisée."
+  },
+  {
+    "english": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity.",
+    "french": "Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations. & Augmente les dégâts élémentaires (feu, eau, foudre, glace, dragon) infligés par des coups critiques."
+  },
+  {
+    "english": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.",
+    "french": "Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.) & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+    "french": "Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations. & Empêche votre arme de perdre son tranchant."
+  },
+  {
+    "english": "Extends the range in which ammo and arrows have maximum power.",
+    "french": "Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations. & Augmente la portée à laquelle les munitions et les flèches sont à puissance maximum."
+  },
+  {
+    "english": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. & Makes it easier to stun monsters.",
+    "french": "Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations. & Augmente la vitesse de rechargement du fusarbalète et la puissance des balles quand il est chargé."
+  },
+  {
+    "english": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. & Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations. & Augmente l'affinité des munitions (fusarbalète) et fioles (arc) dès le 4e tir et l'attaque pour les 4e et 6e tirs."
+  },
+  {
+    "english": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. & Increases water element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations. & Améliore la vitesse de remplissage des armes à jauges et la vitesse de chargement des armes à charges."
+  },
+  {
+    "english": "Increases the rate of poison buildup. (Poison buildup has a maximum limit.)",
+    "french": "Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations. & Les épées longues, insectoglaives, lames doubles, morpho-haches, et volto-haches restent chargés plus longtemps."
+  },
+  {
+    "english": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Makes it easier to stun monsters.",
+    "french": "Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations. & Permet d'étourdir plus facilement les monstres."
+  },
+  {
+    "english": "Increases water element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations. & Augmente la vitesse de la morphose et la puissance des morpho-haches et des volto-haches."
+  },
+  {
+    "english": "Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations. & Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. & Extends the range in which ammo and arrows have maximum power.",
+    "french": "Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations. & Permet de parer des attaques normalement imparables."
+  },
+  {
+    "english": "Speeds up stamina recovery.",
+    "french": "Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Extends the duration of some item effects.",
+    "french": "Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations. & Accroît temporairement la puissance d'attaque après une garde parfaitement synchronisée."
+  },
+  {
+    "english": "Increases the rate of blast buildup. (Blast buildup has a maximum limit.)",
+    "french": "Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations. & Augmente les dégâts élémentaires (feu, eau, foudre, glace, dragon) infligés par des coups critiques."
+  },
+  {
+    "english": "Increases switch speed and power for switch axes and charge blades.",
+    "french": "Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Strengthens explosive attacks like shells, Wyvern's Fire, charge blade phial attacks, and Sticky Ammo.",
+    "french": "Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations. & Empêche votre arme de perdre son tranchant."
+  },
+  {
+    "english": "Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations. & Augmente la portée à laquelle les munitions et les flèches sont à puissance maximum."
+  },
+  {
+    "english": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+    "french": "Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations. & Augmente la vitesse de rechargement du fusarbalète et la puissance des balles quand il est chargé."
+  },
+  {
+    "english": "Increases your power to induce stun when you hit a monster with a hammer's charged attack. & Increases affinity.",
+    "french": "Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations. & Augmente l'affinité des munitions (fusarbalète) et fioles (arc) dès le 4e tir et l'attaque pour les 4e et 6e tirs."
+  },
+  {
+    "english": "Temporarily increases attack power after executing a perfectly-timed guard.",
+    "french": "Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations. & Améliore la vitesse de remplissage des armes à jauges et la vitesse de chargement des armes à charges."
+  },
+  {
+    "english": "Allows you to apply blast coatings.",
+    "french": "Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations. & Les épées longues, insectoglaives, lames doubles, morpho-haches, et volto-haches restent chargés plus longtemps."
+  },
+  {
+    "english": "Increases switch speed and power for switch axes and charge blades. & Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations. & Permet d'étourdir plus facilement les monstres."
+  },
+  {
+    "english": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Makes it easier to stun monsters.",
+    "french": "Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations. & Augmente la vitesse de la morphose et la puissance des morpho-haches et des volto-haches."
+  },
+  {
+    "english": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. & However, it will not increase the gauge past its maximum.",
+    "french": "Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations. & Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": "Increases switch speed and power for switch axes and charge blades. & Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations. & Permet de parer des attaques normalement imparables."
+  },
+  {
+    "english": "Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Temporarily increases affinity and reduces stamina depletion when certain conditions are met.",
+    "french": "Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations. & Accroît temporairement la puissance d'attaque après une garde parfaitement synchronisée."
+  },
+  {
+    "english": "Allows the effects of certain items to also affect nearby allies.",
+    "french": "Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations. & Augmente les dégâts élémentaires (feu, eau, foudre, glace, dragon) infligés par des coups critiques."
+  },
+  {
+    "english": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. & Extends the range in which ammo and arrows have maximum power.",
+    "french": "Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Temporarily increases attack power after executing a perfectly-timed guard. & Reduces knockbacks and stamina depletion when guarding.",
+    "french": "Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations. & Empêche votre arme de perdre son tranchant."
+  },
+  {
+    "english": "Once infected, makes it easier to overcome the Frenzy and increases affinity if cured.",
+    "french": "Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations. & Augmente la portée à laquelle les munitions et les flèches sont à puissance maximum."
+  },
+  {
+    "english": "Increases the attack of the bowgun's Pierce Ammo, and the bow's Dragon Piercer and Thousand Dragons.",
+    "french": "Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations. & Augmente la vitesse de rechargement du fusarbalète et la puissance des balles quand il est chargé."
+  },
+  {
+    "english": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. & Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations. & Augmente l'affinité des munitions (fusarbalète) et fioles (arc) dès le 4e tir et l'attaque pour les 4e et 6e tirs."
+  },
+  {
+    "english": "Reduces the duration of sleep.",
+    "french": "Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations. & Améliore la vitesse de remplissage des armes à jauges et la vitesse de chargement des armes à charges."
+  },
+  {
+    "english": "Increases your power to induce stun when you hit a monster with a hammer's charged attack. & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum",
+    "french": "Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations. & Les épées longues, insectoglaives, lames doubles, morpho-haches, et volto-haches restent chargés plus longtemps."
+  },
+  {
+    "english": "Allows you to apply poison coatings.",
+    "french": "Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations. & Permet d'étourdir plus facilement les monstres."
+  },
+  {
+    "english": "Extends the duration of your poison's effect on monsters. & Increases attack power.",
+    "french": "Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations. & Augmente la vitesse de la morphose et la puissance des morpho-haches et des volto-haches."
+  },
+  {
+    "english": "Increases attack power and defense when health drops to 35% or lower.",
+    "french": "Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations. & Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Prevents your weapon from losing sharpness.",
+    "french": "Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations. & Permet de parer des attaques normalement imparables."
+  },
+  {
+    "english": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.",
+    "french": "Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.",
+    "french": "Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations. & Accroît temporairement la puissance d'attaque après une garde parfaitement synchronisée."
+  },
+  {
+    "english": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots.",
+    "french": "Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations. & Augmente les dégâts élémentaires (feu, eau, foudre, glace, dragon) infligés par des coups critiques."
+  },
+  {
+    "english": "Increases thunder resistance. Also improves defense at higher levels.",
+    "french": "Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Increases your power to induce stun when you hit a monster with a hammer's charged attack.",
+    "french": "Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations. & Empêche votre arme de perdre son tranchant."
+  },
+  {
+    "english": "Grants protection against defense down.",
+    "french": "Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations. & Augmente la portée à laquelle les munitions et les flèches sont à puissance maximum."
+  },
+  {
+    "english": "Increases attack power when your weapon sharpness is low.",
+    "french": "Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations. & Augmente la vitesse de rechargement du fusarbalète et la puissance des balles quand il est chargé."
+  },
+  {
+    "english": "Continuously landing hits gradually increases attack and elemental attack. (Amount increased depends on weapon.)",
+    "french": "Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations. & Augmente l'affinité des munitions (fusarbalète) et fioles (arc) dès le 4e tir et l'attaque pour les 4e et 6e tirs."
+  },
+  {
+    "english": "Prevents your weapon from losing sharpness. & Makes it easier to stun monsters.",
+    "french": "Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations. & Améliore la vitesse de remplissage des armes à jauges et la vitesse de chargement des armes à charges."
+  },
+  {
+    "english": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Prevents your weapon from losing sharpness.",
+    "french": "Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations. & Les épées longues, insectoglaives, lames doubles, morpho-haches, et volto-haches restent chargés plus longtemps."
+  },
+  {
+    "english": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. & Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations. & Permet d'étourdir plus facilement les monstres."
+  },
+  {
+    "english": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.",
+    "french": "Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations. & Augmente la vitesse de la morphose et la puissance des morpho-haches et des volto-haches."
+  },
+  {
+    "english": "Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations. & Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": "Prevents knockbacks and other reactions to small damage.",
+    "french": "Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations. & Permet de parer des attaques normalement imparables."
+  },
+  {
+    "english": "Extends the duration of your poison's effect on monsters. & Makes it easier to stun monsters.",
+    "french": "Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.",
+    "french": "Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations. & Accroît temporairement la puissance d'attaque après une garde parfaitement synchronisée."
+  },
+  {
+    "english": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.) & Increases affinity.",
+    "french": "Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations. & Augmente les dégâts élémentaires (feu, eau, foudre, glace, dragon) infligés par des coups critiques."
+  },
+  {
+    "english": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. & Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Increases fire resistance. Also improves defense at higher levels.",
+    "french": "Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations. & Empêche votre arme de perdre son tranchant."
+  },
+  {
+    "english": "Temporarily increases elemental attack power and status effects after recovering from blights or abnormal status.",
+    "french": "Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations. & Augmente la portée à laquelle les munitions et les flèches sont à puissance maximum."
+  },
+  {
+    "english": "Increases attack power and affinity against large monsters affected by poison or paralysis.",
+    "french": "Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations. & Augmente la vitesse de rechargement du fusarbalète et la puissance des balles quand il est chargé."
+  },
+  {
+    "english": "Grants protection against blastblight.",
+    "french": "Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations. & Augmente l'affinité des munitions (fusarbalète) et fioles (arc) dès le 4e tir et l'attaque pour les 4e et 6e tirs."
+  },
+  {
+    "english": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+    "french": "Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations. & Améliore la vitesse de remplissage des armes à jauges et la vitesse de chargement des armes à charges."
+  },
+  {
+    "english": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. & Increases water element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations. & Les épées longues, insectoglaives, lames doubles, morpho-haches, et volto-haches restent chargés plus longtemps."
+  },
+  {
+    "english": "Increases switch speed and power for switch axes and charge blades. & Increases water element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations. & Permet d'étourdir plus facilement les monstres."
+  },
+  {
+    "english": "Allows you to apply exhaust coatings.",
+    "french": "Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations. & Augmente la vitesse de la morphose et la puissance des morpho-haches et des volto-haches."
+  },
+  {
+    "english": "Allows you to guard against ordinarily unblockable attacks. & Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations. & Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": "Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits. & However, it will not increase the gauge past its maximum.",
+    "french": "Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations. & Permet de parer des attaques normalement imparables."
+  },
+  {
+    "english": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. & Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance des afflictions de type poison. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Increases the bowgun's reload speed and increases the power of bullets when fully loaded.",
+    "french": "Augmente la puissance des afflictions de type paralysie. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Temporarily increases attack power after executing a perfectly-timed guard. & However, it will not increase the gauge past its maximum.",
+    "french": "Augmente la puissance des afflictions de type sommeil. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. & Makes it easier to stun monsters.",
+    "french": "Augmente la puissance des afflictions de type explosion. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Increases the bowgun's reload speed and increases the power of bullets when fully loaded.",
+    "french": "Augmente les dégâts élémentaires (feu, eau, foudre, glace, dragon) infligés par des coups critiques."
+  },
+  {
+    "english": "Increases the power of the bowgun's special ammo, and the bow's Dragon Piercer, Thousand Dragons, and Tracer.",
+    "french": "Augmente les dégâts élémentaires (feu, eau, foudre, glace, dragon) infligés par des coups critiques. & Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Makes it easier to stun monsters.",
+    "french": "Augmente les dégâts élémentaires (feu, eau, foudre, glace, dragon) infligés par des coups critiques. & Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Speeds up weapon sheathing.",
+    "french": "Augmente les dégâts élémentaires (feu, eau, foudre, glace, dragon) infligés par des coups critiques. & Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Prevents your weapon from losing sharpness.",
+    "french": "Augmente les dégâts élémentaires (feu, eau, foudre, glace, dragon) infligés par des coups critiques. & Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Increases the bowgun's reload speed and increases the power of bullets when fully loaded.",
+    "french": "Augmente les dégâts élémentaires (feu, eau, foudre, glace, dragon) infligés par des coups critiques. & Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Disables damage reactions when you hit a friend or when a friend hits you.",
+    "french": "Augmente les dégâts élémentaires (feu, eau, foudre, glace, dragon) infligés par des coups critiques. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.",
+    "french": "Augmente les dégâts élémentaires (feu, eau, foudre, glace, dragon) infligés par des coups critiques. & Augmente la portée à laquelle les munitions et les flèches sont à puissance maximum."
+  },
+  {
+    "english": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+    "french": "Augmente les dégâts élémentaires (feu, eau, foudre, glace, dragon) infligés par des coups critiques. & Permet d'étourdir plus facilement les monstres."
+  },
+  {
+    "english": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Prevents your weapon from losing sharpness.",
+    "french": "Augmente les dégâts élémentaires (feu, eau, foudre, glace, dragon) infligés par des coups critiques. & Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": "Temporarily increases attack power after executing a perfectly-timed guard. & Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente les afflictions (paralysie, poison, sommeil, explosion) infligées par des coups critiques."
+  },
+  {
+    "english": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. & Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente les afflictions (paralysie, poison, sommeil, explosion) infligées par des coups critiques. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.) & Reduces knockbacks and stamina depletion when guarding.",
+    "french": "Augmente les afflictions (paralysie, poison, sommeil, explosion) infligées par des coups critiques. & Augmente la portée à laquelle les munitions et les flèches sont à puissance maximum."
+  },
+  {
+    "english": "Your attacks are deflected less and deal more damage to hard targets.",
+    "french": "Augmente les afflictions (paralysie, poison, sommeil, explosion) infligées par des coups critiques. & Permet d'étourdir plus facilement les monstres."
+  },
+  {
+    "english": "Increases switch speed and power for switch axes and charge blades. & Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente les afflictions (paralysie, poison, sommeil, explosion) infligées par des coups critiques. & Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Extends the range in which ammo and arrows have maximum power.",
+    "french": "Augmente la puissance élémentaire et les afflictions des attaques chargées."
+  },
+  {
+    "english": "Increases the attack power of Normal Ammo, normal arrows, and Flying Swallow Shot.",
+    "french": "Augmente la puissance élémentaire et les afflictions des attaques chargées. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. & Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance élémentaire et les afflictions des attaques chargées. & Permet d'étourdir plus facilement les monstres."
+  },
+  {
+    "english": "Allows you to guard against ordinarily unblockable attacks. & However, it will not increase the gauge past its maximum.",
+    "french": "Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Increases water resistance. Also improves defense at higher levels.",
+    "french": "Empêche votre arme de perdre son tranchant."
+  },
+  {
+    "english": "Gives you a predetermined chance of consuming a food or drink item for free.",
+    "french": "Empêche votre arme de perdre son tranchant. & Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases attack power.",
+    "french": "Empêche votre arme de perdre son tranchant. & Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Reduces the chance small monsters will attack after spotting you. (Has no effect on certain monsters.)",
+    "french": "Empêche votre arme de perdre son tranchant. & Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. & Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Empêche votre arme de perdre son tranchant. & Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases the damage of explosive items.",
+    "french": "Empêche votre arme de perdre son tranchant. & Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Speeds up weapon sharpening when using a whetstone. & Increases affinity.",
+    "french": "Empêche votre arme de perdre son tranchant. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.) & Increases affinity when performing draw attacks. (Not effective while riding.)",
+    "french": "Empêche votre arme de perdre son tranchant. & Permet d'étourdir plus facilement les monstres."
+  },
+  {
+    "english": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Increases switch speed and power for switch axes and charge blades.",
+    "french": "Empêche votre arme de perdre son tranchant. & Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": "Improves the effectiveness of flash attacks and items.",
+    "french": "Le tranchant de l'arme ne diminue pas pendant un certain temps après l'affûtage."
+  },
+  {
+    "english": "Prevents your weapon from losing sharpness.",
+    "french": "Vos attaques sont moins déviées et sont plus puissantes contre les parties dures des monstres."
+  },
+  {
+    "english": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots.",
+    "french": "Augmente les dégâts infligés quand votre arme est émoussée."
+  },
+  {
+    "english": "Increases switch speed and power for switch axes and charge blades. & Reduces knockbacks and stamina depletion when guarding.",
+    "french": "Empêche votre arme de perdre son tranchant lors de coups critiques."
+  },
+  {
+    "english": "Extends the duration of your poison's effect on monsters. & Reduces knockbacks and stamina depletion when guarding",
+    "french": "Augmente la puissance des munitions et des flèches normales, et de Tir d'hirondelle volante."
+  },
+  {
+    "english": "Grants protection against stench.",
+    "french": "Augmente l'attaque des munitions perforantes (fusarbalète) et de Perce-dragon/Mille dragons (arc)."
+  },
+  {
+    "english": "Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.)",
+    "french": "Augmente l'attaque des munitions à grenaille (fusarbalète) et Tir de guerre/Tir rapide (arc)."
+  },
+  {
+    "english": "Has a predetermined chance of reducing the damage you take.",
+    "french": "Augmente la portée à laquelle les munitions et les flèches sont à puissance maximum."
+  },
+  {
+    "english": "Increases element power and status buildup for charged attacks.",
+    "french": "Tir rapide fusarbalète léger amélioré."
+  },
+  {
+    "english": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. & Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la vitesse de rechargement du fusarbalète et la puissance des balles quand il est chargé."
+  },
+  {
+    "english": "Speeds up weapon sharpening when using a whetstone.",
+    "french": "Augmente la vitesse de rechargement du fusarbalète et la puissance des balles quand il est chargé. & Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases certain attacks' ability to exhaust monsters.",
+    "french": "Augmente la vitesse de rechargement du fusarbalète et la puissance des balles quand il est chargé. & Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases the damage caused by jumping attacks. & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+    "french": "Augmente la vitesse de rechargement du fusarbalète et la puissance des balles quand il est chargé. & Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. & Reduces knockbacks and stamina depletion when guarding.",
+    "french": "Augmente la vitesse de rechargement du fusarbalète et la puissance des balles quand il est chargé. & Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots.",
+    "french": "Augmente la vitesse de rechargement du fusarbalète et la puissance des balles quand il est chargé. & Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Extends the range in which ammo and arrows have maximum power.",
+    "french": "Augmente la vitesse de rechargement du fusarbalète et la puissance des balles quand il est chargé. & Augmente la portée à laquelle les munitions et les flèches sont à puissance maximum."
+  },
+  {
+    "english": "Increases ice resistance. Also improves defense at higher levels.",
+    "french": "Augmente la vitesse de rechargement du fusarbalète et la puissance des balles quand il est chargé. & Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. & Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente l'affinité des munitions (fusarbalète) et fioles (arc) dès le 4e tir et l'attaque pour les 4e et 6e tirs."
+  },
+  {
+    "english": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Increases switch speed and power for switch axes and charge blades.",
+    "french": "Augmente l'affinité des munitions (fusarbalète) et fioles (arc) dès le 4e tir et l'attaque pour les 4e et 6e tirs. & Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Makes it easier to stun monsters.",
+    "french": "Augmente l'affinité des munitions (fusarbalète) et fioles (arc) dès le 4e tir et l'attaque pour les 4e et 6e tirs. & Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Allows you to guard against ordinarily unblockable attacks. & Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente l'affinité des munitions (fusarbalète) et fioles (arc) dès le 4e tir et l'attaque pour les 4e et 6e tirs. & Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Allows you to guard against ordinarily unblockable attacks. & Increases water element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente l'affinité des munitions (fusarbalète) et fioles (arc) dès le 4e tir et l'attaque pour les 4e et 6e tirs. & Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.) & Makes it easier to stun monsters.",
+    "french": "Augmente l'affinité des munitions (fusarbalète) et fioles (arc) dès le 4e tir et l'attaque pour les 4e et 6e tirs. & Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Extends the range in which ammo and arrows have maximum power.",
+    "french": "Augmente l'affinité des munitions (fusarbalète) et fioles (arc) dès le 4e tir et l'attaque pour les 4e et 6e tirs. & Augmente la portée à laquelle les munitions et les flèches sont à puissance maximum."
+  },
+  {
+    "english": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. & Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente l'affinité des munitions (fusarbalète) et fioles (arc) dès le 4e tir et l'attaque pour les 4e et 6e tirs. & Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": "Allows you to guard against ordinarily unblockable attacks. & Reduces knockbacks and stamina depletion when guarding.",
+    "french": "Augmente la puissance des munitions spéciales (fusarbalète) et Perce-dragon/ Mille dragons/Munitions traçantes (arc)."
+  },
+  {
+    "english": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. & Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Permet d'utiliser des fioles de poison."
+  },
+  {
+    "english": "Increases attack when you have recoverable damage (the red portion of your Health Gauge).",
+    "french": "Permet d'utiliser des fioles de paralysie."
+  },
+  {
+    "english": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots.",
+    "french": "Permet d'utiliser des fioles de sommeil."
+  },
+  {
+    "english": "Temporarily increases attack power after being knocked back.",
+    "french": "Permet d'utiliser des fioles explosives."
+  },
+  {
+    "english": "Increases the damage caused by jumping attacks. & Increases attack power.",
+    "french": "Permet d'utiliser des fioles de léthargie."
+  },
+  {
+    "english": "Reduces damage while poisoned.",
+    "french": "Augmente la défense, ainsi que les résistances élémentaires aux niveaux supérieurs."
+  },
+  {
+    "english": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.) & Makes it easier to stun monsters.",
+    "french": "A une chance prédéfinie de réduire les dégâts que vous subissez."
+  },
+  {
+    "english": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Allows you to guard against ordinarily unblockable attacks.",
+    "french": "Augmente la protection contre les attaques élémentaires feu puis les attaques physiques."
+  },
+  {
+    "english": "Temporarily increases attack power after executing a perfectly-timed guard. & Increases water element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la protection contre les attaques élémentaires eau puis les attaques physiques."
+  },
+  {
+    "english": "Extends the duration of your poison's effect on monsters. & Increases affinity.",
+    "french": "Augmente la protection contre les attaques élémentaires foudre puis les attaques physiques."
+  },
+  {
+    "english": "Prevents attacks from knocking you back during a jump.",
+    "french": "Augmente la protection contre les attaques élémentaires glace puis les attaques physiques."
+  },
+  {
+    "english": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+    "french": "Augmente la protection contre les attaques élémentaires dragon puis les attaques physiques."
+  },
+  {
+    "english": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots.",
+    "french": "Réduit les dégâts subis en cas d'empoisonnement."
+  },
+  {
+    "english": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. & Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Réduit la durée de paralysie."
+  },
+  {
+    "english": "Increases affinity when performing draw attacks. (Not effective while riding.)",
+    "french": "Réduit la durée de sommeil."
+  },
+  {
+    "english": "Increases switch speed and power for switch axes and charge blades. & Makes it easier to stun monsters.",
+    "french": "Confère une résistance aux effets de Défense réduite."
+  },
+  {
+    "english": "Allows you to guard against ordinarily unblockable attacks.",
+    "french": "Réduit la durée d'étourdissement."
+  },
+  {
+    "english": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. & Increases water element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Confère une résistance à l'hémorragie."
+  },
+  {
+    "english": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.) & Increases attack power.",
+    "french": "Confère une résistance à l'état Toile et au fléau-givre."
+  },
+  {
+    "english": "Reduces the duration of stun.",
+    "french": "Confère une résistance au fléau-explosion."
+  },
+  {
+    "english": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. & However, it will not increase the gauge past its maximum.",
+    "french": "Confère une résistance à la puanteur."
+  },
+  {
+    "english": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded.",
+    "french": "Confère une résistance aux dégâts environnementaux, comme la chaleur ou le froid."
+  },
+  {
+    "english": "Temporarily increases attack power after executing a perfectly-timed guard. & Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la quantité de vie restaurée."
+  },
+  {
+    "english": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.",
+    "french": "Augmente la vitesse de guérison des dégâts temporaires (zone rouge de la jauge de vie)."
+  },
+  {
+    "english": "Increases element power and status buildup for charged attacks. & However, it will not increase the gauge past its maximum.",
+    "french": "Vous récupérez plus de vie en interagissant avec des éléments de l'environnement."
+  },
+  {
+    "english": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.",
+    "french": "Ralentit la perte d'endurance en cas d'esquive, de blocage, etc."
+  },
+  {
+    "english": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+    "french": "Accélère la récupération d'endurance."
+  },
+  {
+    "english": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Reduces knockbacks and stamina depletion when guarding.",
+    "french": "Réduit la consommation d'endurance des actions qui en utilisent en continu (exemple : courir)."
+  },
+  {
+    "english": "Increases switch speed and power for switch axes and charge blades. & However, it will not increase the gauge past its maximum.",
+    "french": "Réduit la perte d'endurance maximum au fil du temps."
+  },
+  {
+    "english": "Increases switch speed and power for switch axes and charge blades. & Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente l'attaque et l'affinité lorsque les grands monstres sont enragés."
+  },
+  {
+    "english": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. & Reduces knockbacks and stamina depletion when guarding.",
+    "french": "Augmente temporairement l'affinité et réduit la perte d'endurance dans certaines conditions."
+  },
+  {
+    "english": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+    "french": "Augmente l'attaque et la défense lorsque la vie est inférieure ou égale à 35 %."
+  },
+  {
+    "english": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Allows you to guard against ordinarily unblockable attacks.",
+    "french": "Attaquez sans arrêt pour augmenter progressivement l'attaque et l'attaque élémentaire. (L'augmentation dépend de l'arme.)"
+  },
+  {
+    "english": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. & Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente l'attaque et l'affinité contre les grands monstres empoisonnés ou paralysés."
+  },
+  {
+    "english": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.",
+    "french": "Facilite la création de blessures. Infligez assez de dégâts pour un bonus de dégâts non élémentaires. (Sauf certaines attaques.)"
+  },
+  {
+    "english": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. & Extends the range in which ammo and arrows have maximum power",
+    "french": "Améliore la vitesse de remplissage des armes à jauges et la vitesse de chargement des armes à charges."
+  },
+  {
+    "english": "Allows you to apply sleep coatings.",
+    "french": "Améliore la vitesse de remplissage des armes à jauges et la vitesse de chargement des armes à charges. & Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases the damage of critical hits.",
+    "french": "Améliore la vitesse de remplissage des armes à jauges et la vitesse de chargement des armes à charges. & Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Extends the range in which ammo and arrows have maximum power.",
+    "french": "Améliore la vitesse de remplissage des armes à jauges et la vitesse de chargement des armes à charges. & Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.) & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+    "french": "Améliore la vitesse de remplissage des armes à jauges et la vitesse de chargement des armes à charges. & Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Extends the invulnerability period when evading.",
+    "french": "Améliore la vitesse de remplissage des armes à jauges et la vitesse de chargement des armes à charges. & Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits. & Extends the range in which ammo and arrows have maximum power.",
+    "french": "Améliore la vitesse de remplissage des armes à jauges et la vitesse de chargement des armes à charges. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Extends the range in which ammo and arrows have maximum power.",
+    "french": "Améliore la vitesse de remplissage des armes à jauges et la vitesse de chargement des armes à charges. & Augmente la portée à laquelle les munitions et les flèches sont à puissance maximum."
+  },
+  {
+    "english": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Temporarily increases attack power after executing a perfectly-timed guard.",
+    "french": "Améliore la vitesse de remplissage des armes à jauges et la vitesse de chargement des armes à charges. & Permet d'étourdir plus facilement les monstres."
+  },
+  {
+    "english": "Increases affinity if stamina is kept full for a period of time.",
+    "french": "Les épées longues, insectoglaives, lames doubles, morpho-haches, et volto-haches restent chargés plus longtemps."
+  },
+  {
+    "english": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+    "french": "Les épées longues, insectoglaives, lames doubles, morpho-haches, et volto-haches restent chargés plus longtemps. & Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Speeds up weapon sharpening when using a whetstone. & Reduces knockbacks and stamina depletion when guarding.",
+    "french": "Les épées longues, insectoglaives, lames doubles, morpho-haches, et volto-haches restent chargés plus longtemps. & Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Improves fishing, grilling, and transporting abilities.",
+    "french": "Les épées longues, insectoglaives, lames doubles, morpho-haches, et volto-haches restent chargés plus longtemps. & Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Allows you to do a dive-evade when facing towards large monsters and extends the dive-evade distance.",
+    "french": "Les épées longues, insectoglaives, lames doubles, morpho-haches, et volto-haches restent chargés plus longtemps. & Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. & Increases water element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Les épées longues, insectoglaives, lames doubles, morpho-haches, et volto-haches restent chargés plus longtemps. & Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. & Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Les épées longues, insectoglaives, lames doubles, morpho-haches, et volto-haches restent chargés plus longtemps. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Extends the duration of your poison's effect on monsters. & Extends the range in which ammo and arrows have maximum power.",
+    "french": "Ajoute un étourdissement aux attaques dégainées. Augmente un peu l'attaque (sans effet en chevauchant)."
+  },
+  {
+    "english": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Reduces knockbacks and stamina depletion when guarding.",
+    "french": "Ajoute un étourdissement aux attaques dégainées. Augmente un peu l'attaque (sans effet en chevauchant). & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Temporarily increases attack power after executing a perfectly-timed guard.",
+    "french": "Ajoute un étourdissement aux attaques dégainées. Augmente un peu l'attaque (sans effet en chevauchant). & Permet d'étourdir plus facilement les monstres."
+  },
+  {
+    "english": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. & Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Ajoute un étourdissement aux attaques dégainées. Augmente un peu l'attaque (sans effet en chevauchant). & Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": "Makes it easier to break large monster parts, and increases damage dealt when destroying a wound with a Focus Strike.",
+    "french": "Permet d'étourdir plus facilement les monstres."
+  },
+  {
+    "english": "Increases the attack of the bowgun's Spread Ammo and the bow's Power Shots and Quick Shots.",
+    "french": "Augmente la capacité de certaines attaques à infliger l'affliction léthargie aux monstres."
+  },
+  {
+    "english": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Increases the bowgun's reload speed and increases the power of bullets when fully loaded.",
+    "french": "Augmente la puissance des attaques explosives : lancecanon, Feu de wyverne, fioles de choc et munitions antiblindage."
+  },
+  {
+    "english": "Reduces the recharge time for specialized tools.",
+    "french": "Augmente la vitesse de la morphose et la puissance des morpho-haches et des volto-haches."
+  },
+  {
+    "english": "Increases evade distance.",
+    "french": "Augmente la vitesse de la morphose et la puissance des morpho-haches et des volto-haches. & Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Temporarily increases attack power after executing a perfectly-timed guard.",
+    "french": "Augmente la vitesse de la morphose et la puissance des morpho-haches et des volto-haches. & Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. & Increases water element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la vitesse de la morphose et la puissance des morpho-haches et des volto-haches. & Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. & Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la vitesse de la morphose et la puissance des morpho-haches et des volto-haches. & Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Grants protection against bleeding.",
+    "french": "Augmente la vitesse de la morphose et la puissance des morpho-haches et des volto-haches. & Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Reduces knockbacks and stamina depletion when guarding.",
+    "french": "Augmente la vitesse de la morphose et la puissance des morpho-haches et des volto-haches. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Grants protection from large monsters' roars.",
+    "french": "Augmente la vitesse de la morphose et la puissance des morpho-haches et des volto-haches. & Permet d'étourdir plus facilement les monstres."
+  },
+  {
+    "english": "Attack and defense increase as time passes while on a quest. (The maximum is reached after 30 minutes.)",
+    "french": "Augmente la vitesse de la morphose et la puissance des morpho-haches et des volto-haches. & Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": "Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits. & Reduces knockbacks and stamina depletion when guarding.",
+    "french": "Facilite la destruction des parties des monstres et augmente les dégâts quand vous détruisez une blessure avec une Attaque Focus."
+  },
+  {
+    "english": "ncreases the number of items you gain at gathering points.",
+    "french": "Augmente temporairement l'attaque élémentaire et les afflictions après la fin d'un fléau ou d'un statut anormal."
+  },
+  {
+    "english": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Temporarily increases attack power after executing a perfectly-timed guard.",
+    "french": "Augmente temporairement les dégâts infligés aux grands monstres par les attaques furtives."
+  },
+  {
+    "english": "Speeds up weapon sharpening when using a whetstone. & However, it will not increase the gauge past its maximum.",
+    "french": "En cas d'infection, permet de surmonter plus facilement la Furie et augmente l'affinité en guérissant."
+  },
+  {
+    "english": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity. & Increases attack power.",
+    "french": "Prolonge la durée des mélodies des cornes de chasse (effet perdu lorsque vous changez d'arme)."
+  },
+  {
+    "english": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. & However, it will not increase the gauge past its maximum.",
+    "french": "Prolonge la durée des mélodies des cornes de chasse (effet perdu lorsque vous changez d'arme). & Augmente l'attaque."
+  },
+  {
+    "english": "Extends the duration of your poison's effect on monsters. & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+    "french": "Prolonge la durée des mélodies des cornes de chasse (effet perdu lorsque vous changez d'arme). & Augmente l'affinité."
+  },
+  {
+    "english": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Makes it easier to stun monsters.",
+    "french": "Prolonge la durée des mélodies des cornes de chasse (effet perdu lorsque vous changez d'arme). & Augmente l'affinité lorsque vous exécutez des attaques dégainées (sans effet en chevauchant)."
+  },
+  {
+    "english": "Temporarily increases attack power after executing a perfectly-timed guard. & Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Prolonge la durée des mélodies des cornes de chasse (effet perdu lorsque vous changez d'arme). & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Increases switch speed and power for switch axes and charge blades.",
+    "french": "Prolonge la durée des mélodies des cornes de chasse (effet perdu lorsque vous changez d'arme). & Permet d'étourdir plus facilement les monstres."
+  },
+  {
+    "english": "Increases attack when your health is full.",
+    "french": "Augmente votre capacité à étourdir lorsque vous frappez un monstre avec une attaque de marteau chargée."
+  },
+  {
+    "english": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity. & Increases affinity when performing draw attacks. (Not effective while riding.)",
+    "french": "Augmente votre capacité à étourdir lorsque vous frappez un monstre avec une attaque de marteau chargée. & Augmente l'attaque."
+  },
+  {
+    "english": "Speeds up weapon sharpening when using a whetstone. & Increases affinity when performing draw attacks. (Not effective while riding.)",
+    "french": "Augmente votre capacité à étourdir lorsque vous frappez un monstre avec une attaque de marteau chargée. & Augmente l'affinité."
+  },
+  {
+    "english": "Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits.",
+    "french": "Augmente votre capacité à étourdir lorsque vous frappez un monstre avec une attaque de marteau chargée. & Augmente l'affinité lorsque vous exécutez des attaques dégainées (sans effet en chevauchant)."
+  },
+  {
+    "english": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.)",
+    "french": "Augmente votre capacité à étourdir lorsque vous frappez un monstre avec une attaque de marteau chargée. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity. & Increases affinity.",
+    "french": "Augmente votre capacité à étourdir lorsque vous frappez un monstre avec une attaque de marteau chargée. & Permet d'étourdir plus facilement les monstres."
+  },
+  {
+    "english": "Increases affinity.",
+    "french": "Augmente la puissance des attaques sautées."
+  },
+  {
+    "english": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Allows you to guard against ordinarily unblockable attacks.",
+    "french": "Augmente la puissance des attaques sautées. & Augmente l'attaque."
+  },
+  {
+    "english": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+    "french": "Augmente la puissance des attaques sautées. & Augmente l'affinité."
+  },
+  {
+    "english": "Slows down stamina depletion for actions that continuously drain stamina (such as dashing).",
+    "french": "Augmente la puissance des attaques sautées. & Augmente l'affinité lorsque vous exécutez des attaques dégainées (sans effet en chevauchant)."
+  },
+  {
+    "english": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. & Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la puissance des attaques sautées. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Grants resistance against impairments to mobility while in water, oilsilt, or streams.",
+    "french": "Augmente progressivement l'attaque et la défense pendant une quête. (N'augmente plus après 30 minutes.)"
+  },
+  {
+    "english": "Allows you to guard against ordinarily unblockable attacks. & Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Prolonge la durée de l'effet de votre poison sur les monstres."
+  },
+  {
+    "english": "Prevents your weapon from losing sharpness during critical hits.",
+    "french": "Prolonge la durée de l'effet de votre poison sur les monstres. & Augmente l'attaque."
+  },
+  {
+    "english": "Reduces stamina depletion when evading, blocking, or doing certain other actions.",
+    "french": "Prolonge la durée de l'effet de votre poison sur les monstres. & Augmente l'affinité."
+  },
+  {
+    "english": "Extends the duration of your poison's effect on monsters. & Increases affinity when performing draw attacks. (Not effective while riding.)",
+    "french": "Prolonge la durée de l'effet de votre poison sur les monstres. & Augmente l'affinité lorsque vous exécutez des attaques dégainées (sans effet en chevauchant)."
+  },
+  {
+    "english": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Makes it easier to stun monsters.",
+    "french": "Prolonge la durée de l'effet de votre poison sur les monstres. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Improves light bowgun rapid fire.",
+    "french": "Prolonge la durée de l'effet de votre poison sur les monstres. & Augmente la portée à laquelle les munitions et les flèches sont à puissance maximum."
+  },
+  {
+    "english": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Prevents your weapon from losing sharpness.",
+    "french": "Prolonge la durée de l'effet de votre poison sur les monstres. & Permet d'étourdir plus facilement les monstres."
+  },
+  {
+    "english": "Extra health is recovered from environmental interactables.",
+    "french": "Prolonge la durée de l'effet de votre poison sur les monstres. & Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": "Grants protection against ground tremors.",
+    "french": "Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": "Increases water element attack power. (Elemental attack power has a maximum limit.) & Increases switch speed and power for switch axes and charge blades.",
+    "french": "Augmente la durée de l'invulnérabilité en cas d'esquive."
+  },
+  {
+    "english": "Increases the quantity of herbs and other consumable items you gather.",
+    "french": "Augmente la distance d'esquive."
+  },
+  {
+    "english": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Allows you to guard against ordinarily unblockable attacks.",
+    "french": "Confère une résistance aux rugissements des grands monstres."
+  },
+  {
+    "english": "The bodies of small insect monsters won't be destroyed, allowing them to be carved.",
+    "french": "Permet de parer des attaques normalement imparables."
+  },
+  {
+    "english": "Reduces maximum stamina depletion over time.",
+    "french": "Permet de parer des attaques normalement imparables. & Augmente la puissance des attaques élémentaires feu. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases ice element attack power. (Elemental attack power has a maximum limit.) & Increases switch speed and power for switch axes and charge blades.",
+    "french": "Permet de parer des attaques normalement imparables. & Augmente la puissance des attaques élémentaires eau. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+    "french": "Permet de parer des attaques normalement imparables. & Augmente la puissance des attaques élémentaires glace. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Decreases stamina depletion when climbing on vines.",
+    "french": "Permet de parer des attaques normalement imparables. & Augmente la puissance des attaques élémentaires foudre. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+    "french": "Permet de parer des attaques normalement imparables. & Augmente la puissance des attaques élémentaires draconiques. Il y a une limite aux augmentations."
+  },
+  {
+    "english": "Increases the damage caused by jumping attacks. & Increases affinity when performing draw attacks. (Not effective while riding.)",
+    "french": "Permet de parer des attaques normalement imparables. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Extends the duration of your poison's effect on monsters.",
+    "french": "Permet de parer des attaques normalement imparables. & Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Allows you to guard against ordinarily unblockable attacks.",
+    "french": "Augmente la vitesse de rengainage."
+  },
+  {
+    "english": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+    "french": "Confère une résistance aux bourrasques."
+  },
+  {
+    "english": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Increases the bowgun's reload speed and increases the power of bullets when fully loaded.",
+    "french": "Confère une résistance aux secousses."
+  },
+  {
+    "english": "Allows you to guard against ordinarily unblockable attacks. & Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Évite les chutes et autres réactions aux dégâts mineurs."
+  },
+  {
+    "english": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) & Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots.",
+    "french": "Réduit les chances de vous faire attaquer par de petits monstres s'ils vous repèrent. Sans effet sur certains monstres."
+  },
+  {
+    "english": "Speeds up weapon sharpening when using a whetstone. & Increases attack power.",
+    "french": "Augmente la vitesse de consommation de viande et d'objets."
+  },
+  {
+    "english": "Increases the damage caused by jumping attacks. & Increases affinity.",
+    "french": "Améliore le rechargement et augmente le nombre de munitions du lancecanon et de fioles de volto-hache."
+  },
+  {
+    "english": "Increases defense. Also improves resistances at higher levels.",
+    "french": "Améliore le rechargement et augmente le nombre de munitions du lancecanon et de fioles de volto-hache. & Augmente l'attaque."
+  },
+  {
+    "english": "Increases your power to induce stun when you hit a monster with a hammer's charged attack. & Increases attack power.",
+    "french": "Améliore le rechargement et augmente le nombre de munitions du lancecanon et de fioles de volto-hache. & Augmente l'affinité."
+  },
+  {
+    "english": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity. & Reduces knockbacks and stamina depletion when guarding",
+    "french": "Améliore le rechargement et augmente le nombre de munitions du lancecanon et de fioles de volto-hache. & Augmente l'affinité lorsque vous exécutez des attaques dégainées (sans effet en chevauchant)."
+  },
+  {
+    "english": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. & Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Améliore le rechargement et augmente le nombre de munitions du lancecanon et de fioles de volto-hache. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Reduces knockbacks and stamina depletion when guarding.",
+    "french": "Améliore le rechargement et augmente le nombre de munitions du lancecanon et de fioles de volto-hache. & Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": "Temporarily increases attack power after executing a perfectly-timed guard. & Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Augmente la résistance contre les entraves à la mobilité dans l'eau, la boue huileuse ou les ruisseaux."
+  },
+  {
+    "english": "Increases the affinity of attacks that exploit a monster's weak points and wounds.",
+    "french": "Désactive les réactions aux dégâts lorsque vous touchez un allié ou inversement."
+  },
+  {
+    "english": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) & Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.",
+    "french": "Permet d'esquiver de grands monstres en sautant vers eux et d'étendre la distance d'esquive."
+  },
+  {
+    "english": "Reduces the duration of paralysis.",
+    "french": "Empêche les attaques de vous repousser pendant un saut."
+  },
+  {
+    "english": "Increases fire element attack power. (Elemental attack power has a maximum limit.) & Temporarily increases attack power after executing a perfectly-timed guard.",
+    "french": "Réduit la perte d'endurance lorsque vous grimpez sur des lianes."
+  },
+  {
+    "english": "Increases attack power and affinity when large monsters become enraged.",
+    "french": "Partage les effets de certains objets avec les alliés à proximité."
+  },
+  {
+    "english": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. & Reduces knockbacks and stamina depletion when guarding.",
+    "french": "Réduit le délai de réutilisation des outils de survie."
+  },
+  {
+    "english": "Increases dragon resistance. Also improves defense at higher levels.",
+    "french": "Augmente les dégâts occasionnés par les objets explosifs."
+  },
+  {
+    "english": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. & Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+    "french": "Permet de digérer des champignons non comestibles pour bénéficier de leurs effets positifs."
+  },
+  {
+    "english": "Increases the damage caused by jumping attacks.",
+    "french": "Augmente la durée des effets pour certains objets."
+  },
+  {
+    "english": "Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effects.",
+    "french": "Octroie une chance prédéfinie de consommer une nourriture ou un breuvage gratuitement."
+  },
+  {
+    "english": "Grants protection against webbed status and frostblight.",
+    "french": "Accélère l'affûtage d'une arme avec un aiguisoir."
+  },
+  {
+    "english": "Speeds healing of recoverable damage (the red portion of the Health Gauge).",
+    "french": "Accélère l'affûtage d'une arme avec un aiguisoir. & Augmente l'attaque."
+  },
+  {
+    "english": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity. & Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+    "french": "Accélère l'affûtage d'une arme avec un aiguisoir. & Augmente l'affinité."
+  },
+  {
+    "english": NaN,
+    "french": "Accélère l'affûtage d'une arme avec un aiguisoir. & Augmente l'affinité lorsque vous exécutez des attaques dégainées (sans effet en chevauchant)."
+  },
+  {
+    "english": NaN,
+    "french": "Accélère l'affûtage d'une arme avec un aiguisoir. & Augmente la jauge de tranchant de l'arme. Ne peut dépasser la limite maximum."
+  },
+  {
+    "english": NaN,
+    "french": "Accélère l'affûtage d'une arme avec un aiguisoir. & Permet d'étourdir plus facilement les monstres."
+  },
+  {
+    "english": NaN,
+    "french": "Accélère l'affûtage d'une arme avec un aiguisoir. & Réduit les repoussements et la perte d'endurance lorsque vous bloquez."
+  },
+  {
+    "english": NaN,
+    "french": "Améliore l'efficacité des attaques et objets flash."
+  },
+  {
+    "english": NaN,
+    "french": "Augmente la quantité d'herbes et d'objets utilisables que vous collectez."
+  },
+  {
+    "english": NaN,
+    "french": "Augmente le nombre d'objets récupérés aux points de collecte."
+  },
+  {
+    "english": NaN,
+    "french": "Les corps des petits monstres insectes ne sont pas détruits, ce qui permet de les dépecer (avec quelques exceptions)."
+  },
+  {
+    "english": NaN,
+    "french": "Améliore la pêche, le gril et les capacités de déplacement."
+  }
+]
