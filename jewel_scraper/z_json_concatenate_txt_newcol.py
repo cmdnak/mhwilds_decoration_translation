@@ -1,19 +1,22 @@
 import pandas as pd
 import json
 
-# Load your JSON file
-df = pd.read_json("json/fr_jewels.json")
+# Load the JSON data
+df = pd.read_json("json/jewels_merged.json")
 
-# Create a new column by concatenating other fields
-df["fr_concatenate"] = (
+# 🔧 Force slot_lvl to be integer
+df["slot"] = df["slot"].astype("Int64")  # Ensures no .0 when exporting
+
+# 🧠 Create the concatenated field
+df["en_concatenate"] = (
     df["name"] + " " +
-    df["slot_lvl"].astype(str) + " " +
-    df["talent_fr"] + " " +
-    df["desc_merge"]
+    df["slot"].astype(str) + " " +  # Concatenate as string
+    df["skill"] + " " +
+    df["description"]
 )
 
-# Export the new DataFrame to JSON
-with open("json/fr_jewels_with_concat.json", "w", encoding="utf-8") as f:
+# Save the updated JSON
+with open("json/jewels_merged.json", "w", encoding="utf-8") as f:
     json.dump(df.to_dict(orient="records"), f, ensure_ascii=False, indent=2)
 
 print("✅ JSON concatenate ok")
